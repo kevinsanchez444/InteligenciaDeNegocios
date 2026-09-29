@@ -1,0 +1,1011 @@
+ID_Estudiante,Curso,Nivel_Educativo,Horas_Estudio,Lecciones_Completadas,Puntaje_Evaluacion,Modalidad,Certificado_Generado
+EST-2001,Arquitectura Cloud,Profesional,20.0,26,82.0,Híbrido,Sí
+EST-2002,Desarrollo Web,Técnico,10.0,27,,Híbrido,Sí
+EST-2003,Arquitectura Cloud,Técnico,40.0,25,90.0,Sincrónico,No
+EST-2004,Desarrollo Web,Tecnólogo,20.0,55,68.0,Híbrido,Sí
+EST-2005,Python para Datos,Técnico,50.0,46,45.0,Híbrido,No
+EST-2006,Inteligencia Artificial,Posgrado,,15,55.0,Híbrido,No
+EST-2007,Python para Datos,Tecnólogo,50.0,12,75.0,Híbrido,Sí
+EST-2008,Inteligencia Artificial,Técnico,25.0,37,75.0,Sincrónico,Sí
+EST-2009,Inteligencia Artificial,Posgrado,10.0,30,82.0,Sincrónico,Sí
+EST-2010,Python para Datos,Tecnólogo,20.0,45,82.0,Sincrónico,Sí
+EST-2011,Inteligencia Artificial,Tecnólogo,40.0,14,75.0,Sincrónico,No
+EST-2012,Python para Datos,Tecnólogo,25.0,15,82.0,Sincrónico,Sí
+EST-2013,Desarrollo Web,Tecnólogo,15.5,23,68.0,Sincrónico,Sí
+EST-2014,Arquitectura Cloud,Tecnólogo,10.0,46,82.0,Asincrónico,Sí
+EST-2015,Bases de Datos SQL,Técnico,20.0,50,82.0,Sincrónico,Sí
+EST-2016,Python para Datos,Profesional,32.5,29,75.0,Híbrido,No
+EST-2017,Arquitectura Cloud,Profesional,10.0,35,82.0,Asincrónico,Sí
+EST-2018,Arquitectura Cloud,Profesional,40.0,22,55.0,Híbrido,Sí
+EST-2019,Arquitectura Cloud,Técnico,20.0,35,90.0,Híbrido,Sí
+EST-2020,Bases de Datos SQL,Posgrado,20.0,58,55.0,Sincrónico,No
+EST-2021,Inteligencia Artificial,Profesional,,16,68.0,Asincrónico,No
+EST-2022,Python para Datos,Profesional,15.5,35,82.0,Sincrónico,Sí
+EST-2023,Desarrollo Web,Técnico,25.0,32,82.0,Sincrónico,Sí
+EST-2024,Arquitectura Cloud,Técnico,15.5,42,90.0,Híbrido,No
+EST-2025,Bases de Datos SQL,Posgrado,40.0,25,82.0,Sincrónico,Sí
+EST-2026,Inteligencia Artificial,Técnico,32.5,19,82.0,Híbrido,Sí
+EST-2027,Arquitectura Cloud,Tecnólogo,10.0,8,68.0,Asincrónico,No
+EST-2028,Python para Datos,Profesional,25.0,5,68.0,Asincrónico,Sí
+EST-2029,Desarrollo Web,Tecnólogo,20.0,43,68.0,Asincrónico,Sí
+EST-2030,Desarrollo Web,Tecnólogo,50.0,7,75.0,Asincrónico,No
+EST-2031,Python para Datos,Tecnólogo,25.0,26,82.0,Híbrido,Sí
+EST-2032,Inteligencia Artificial,Posgrado,40.0,34,,Sincrónico,No
+EST-2033,Arquitectura Cloud,Técnico,20.0,15,75.0,Sincrónico,Sí
+EST-2034,Arquitectura Cloud,Técnico,15.5,13,82.0,Sincrónico,No
+EST-2035,Inteligencia Artificial,Posgrado,10.0,56,82.0,Asincrónico,Sí
+EST-2036,Bases de Datos SQL,Tecnólogo,15.5,52,75.0,Asincrónico,No
+EST-2037,Inteligencia Artificial,Posgrado,25.0,44,68.0,Asincrónico,Sí
+EST-2038,Python para Datos,Técnico,20.0,19,82.0,Sincrónico,No
+EST-2039,Desarrollo Web,Técnico,,39,82.0,Asincrónico,Sí
+EST-2040,Inteligencia Artificial,Tecnólogo,10.0,7,68.0,Asincrónico,Sí
+EST-2041,Bases de Datos SQL,Profesional,15.5,16,75.0,Híbrido,Sí
+EST-2042,Inteligencia Artificial,Posgrado,40.0,26,,Híbrido,Sí
+EST-2043,Python para Datos,Posgrado,20.0,29,75.0,Híbrido,No
+EST-2044,Inteligencia Artificial,Tecnólogo,32.5,51,55.0,Asincrónico,Sí
+EST-2045,Bases de Datos SQL,Posgrado,20.0,11,82.0,Asincrónico,Sí
+EST-2046,Inteligencia Artificial,Profesional,20.0,38,75.0,Sincrónico,No
+EST-2047,Desarrollo Web,Tecnólogo,40.0,47,45.0,Asincrónico,Sí
+EST-2048,Python para Datos,Posgrado,25.0,48,75.0,Híbrido,No
+EST-2049,Arquitectura Cloud,Posgrado,,35,75.0,Sincrónico,No
+EST-2050,Arquitectura Cloud,Técnico,50.0,6,75.0,Híbrido,Sí
+EST-2051,Desarrollo Web,Técnico,,24,82.0,Sincrónico,No
+EST-2052,Python para Datos,Posgrado,15.5,55,45.0,Sincrónico,No
+EST-2053,Inteligencia Artificial,Posgrado,20.0,23,,Híbrido,Sí
+EST-2054,Inteligencia Artificial,Técnico,15.5,36,75.0,Sincrónico,No
+EST-2055,Arquitectura Cloud,Tecnólogo,20.0,15,68.0,Híbrido,No
+EST-2056,Bases de Datos SQL,Posgrado,20.0,39,75.0,Híbrido,No
+EST-2057,Arquitectura Cloud,Técnico,32.5,15,55.0,Sincrónico,Sí
+EST-2058,Bases de Datos SQL,Tecnólogo,20.0,16,75.0,Asincrónico,No
+EST-2059,Arquitectura Cloud,Técnico,10.0,5,82.0,Sincrónico,No
+EST-2060,Inteligencia Artificial,Tecnólogo,25.0,10,82.0,Híbrido,Sí
+EST-2061,Inteligencia Artificial,Posgrado,15.5,37,75.0,Sincrónico,No
+EST-2062,Arquitectura Cloud,Posgrado,15.5,49,55.0,Asincrónico,No
+EST-2063,Python para Datos,Tecnólogo,20.0,51,82.0,Asincrónico,No
+EST-2064,Bases de Datos SQL,Tecnólogo,50.0,29,,Híbrido,Sí
+EST-2065,Bases de Datos SQL,Posgrado,32.5,38,45.0,Asincrónico,No
+EST-2066,Arquitectura Cloud,Posgrado,10.0,27,98.0,Sincrónico,No
+EST-2067,Desarrollo Web,Posgrado,,29,,Asincrónico,No
+EST-2068,Bases de Datos SQL,Posgrado,,58,55.0,Sincrónico,No
+EST-2069,Bases de Datos SQL,Posgrado,32.5,57,82.0,Sincrónico,Sí
+EST-2070,Bases de Datos SQL,Profesional,15.5,31,82.0,Sincrónico,Sí
+EST-2071,Inteligencia Artificial,Posgrado,25.0,45,82.0,Sincrónico,No
+EST-2072,Arquitectura Cloud,Profesional,50.0,50,75.0,Híbrido,No
+EST-2073,Arquitectura Cloud,Tecnólogo,25.0,13,82.0,Asincrónico,No
+EST-2074,Bases de Datos SQL,Posgrado,15.5,33,82.0,Asincrónico,Sí
+EST-2075,Desarrollo Web,Profesional,20.0,11,75.0,Sincrónico,No
+EST-2076,Arquitectura Cloud,Técnico,10.0,7,82.0,Híbrido,Sí
+EST-2077,Inteligencia Artificial,Posgrado,20.0,30,,Asincrónico,Sí
+EST-2078,Arquitectura Cloud,Tecnólogo,20.0,21,82.0,Sincrónico,Sí
+EST-2079,Arquitectura Cloud,Tecnólogo,25.0,29,90.0,Sincrónico,No
+EST-2080,Inteligencia Artificial,Profesional,15.5,8,82.0,Híbrido,No
+EST-2081,Bases de Datos SQL,Posgrado,32.5,36,90.0,Asincrónico,Sí
+EST-2082,Desarrollo Web,Técnico,32.5,29,68.0,Asincrónico,No
+EST-2083,Inteligencia Artificial,Posgrado,25.0,22,75.0,Asincrónico,No
+EST-2084,Python para Datos,Profesional,25.0,16,75.0,Sincrónico,Sí
+EST-2085,Arquitectura Cloud,Técnico,15.5,24,,Sincrónico,Sí
+EST-2086,Python para Datos,Tecnólogo,20.0,43,90.0,Asincrónico,Sí
+EST-2087,Arquitectura Cloud,Posgrado,50.0,34,68.0,Asincrónico,Sí
+EST-2088,Inteligencia Artificial,Profesional,15.5,46,75.0,Asincrónico,Sí
+EST-2089,Inteligencia Artificial,Profesional,32.5,47,82.0,Sincrónico,No
+EST-2090,Arquitectura Cloud,Técnico,32.5,26,82.0,Asincrónico,Sí
+EST-2091,Bases de Datos SQL,Posgrado,40.0,42,75.0,Asincrónico,No
+EST-2092,Arquitectura Cloud,Profesional,25.0,58,,Asincrónico,Sí
+EST-2093,Bases de Datos SQL,Posgrado,15.5,18,45.0,Sincrónico,Sí
+EST-2094,Desarrollo Web,Tecnólogo,25.0,31,75.0,Híbrido,No
+EST-2095,Arquitectura Cloud,Posgrado,10.0,40,,Sincrónico,No
+EST-2096,Inteligencia Artificial,Profesional,20.0,25,68.0,Híbrido,Sí
+EST-2097,Bases de Datos SQL,Posgrado,50.0,59,75.0,Híbrido,No
+EST-2098,Desarrollo Web,Tecnólogo,10.0,19,45.0,Sincrónico,No
+EST-2099,Arquitectura Cloud,Técnico,25.0,28,75.0,Híbrido,Sí
+EST-2100,Inteligencia Artificial,Técnico,15.5,55,98.0,Híbrido,Sí
+EST-2101,Inteligencia Artificial,Técnico,15.5,50,55.0,Híbrido,No
+EST-2102,Arquitectura Cloud,Profesional,10.0,28,75.0,Sincrónico,Sí
+EST-2103,Arquitectura Cloud,Posgrado,25.0,50,90.0,Sincrónico,No
+EST-2104,Desarrollo Web,Técnico,,60,55.0,Asincrónico,No
+EST-2105,Desarrollo Web,Tecnólogo,20.0,31,68.0,Híbrido,Sí
+EST-2106,Bases de Datos SQL,Profesional,15.5,44,55.0,Híbrido,Sí
+EST-2107,Arquitectura Cloud,Profesional,25.0,29,,Sincrónico,Sí
+EST-2108,Python para Datos,Profesional,20.0,52,,Híbrido,Sí
+EST-2109,Desarrollo Web,Tecnólogo,25.0,45,82.0,Asincrónico,Sí
+EST-2110,Inteligencia Artificial,Posgrado,15.5,21,90.0,Híbrido,Sí
+EST-2111,Desarrollo Web,Profesional,50.0,39,75.0,Asincrónico,No
+EST-2112,Python para Datos,Profesional,10.0,46,45.0,Asincrónico,Sí
+EST-2113,Inteligencia Artificial,Técnico,15.5,47,82.0,Híbrido,Sí
+EST-2114,Python para Datos,Tecnólogo,20.0,36,98.0,Asincrónico,Sí
+EST-2115,Inteligencia Artificial,Profesional,32.5,58,75.0,Sincrónico,Sí
+EST-2116,Inteligencia Artificial,Profesional,10.0,16,68.0,Asincrónico,Sí
+EST-2117,Bases de Datos SQL,Profesional,32.5,9,90.0,Asincrónico,Sí
+EST-2118,Inteligencia Artificial,Posgrado,20.0,33,90.0,Híbrido,Sí
+EST-2119,Arquitectura Cloud,Posgrado,32.5,9,98.0,Híbrido,Sí
+EST-2120,Python para Datos,Tecnólogo,32.5,58,98.0,Asincrónico,No
+EST-2121,Arquitectura Cloud,Tecnólogo,15.5,12,55.0,Sincrónico,Sí
+EST-2122,Desarrollo Web,Tecnólogo,20.0,17,45.0,Sincrónico,Sí
+EST-2123,Python para Datos,Técnico,32.5,56,55.0,Híbrido,Sí
+EST-2124,Inteligencia Artificial,Tecnólogo,25.0,48,,Híbrido,Sí
+EST-2125,Desarrollo Web,Posgrado,15.5,13,68.0,Asincrónico,Sí
+EST-2126,Inteligencia Artificial,Posgrado,15.5,11,90.0,Asincrónico,Sí
+EST-2127,Arquitectura Cloud,Posgrado,15.5,15,75.0,Híbrido,Sí
+EST-2128,Arquitectura Cloud,Tecnólogo,15.5,27,90.0,Híbrido,Sí
+EST-2129,Desarrollo Web,Tecnólogo,32.5,42,82.0,Asincrónico,Sí
+EST-2130,Inteligencia Artificial,Tecnólogo,20.0,24,82.0,Híbrido,Sí
+EST-2131,Inteligencia Artificial,Tecnólogo,15.5,23,75.0,Híbrido,Sí
+EST-2132,Inteligencia Artificial,Posgrado,20.0,10,90.0,Asincrónico,No
+EST-2133,Bases de Datos SQL,Tecnólogo,10.0,40,,Híbrido,Sí
+EST-2134,Arquitectura Cloud,Posgrado,20.0,47,75.0,Híbrido,Sí
+EST-2135,Inteligencia Artificial,Tecnólogo,15.5,25,45.0,Sincrónico,Sí
+EST-2136,Desarrollo Web,Tecnólogo,20.0,8,75.0,Híbrido,Sí
+EST-2137,Inteligencia Artificial,Tecnólogo,10.0,5,82.0,Asincrónico,Sí
+EST-2138,Python para Datos,Tecnólogo,25.0,37,82.0,Híbrido,Sí
+EST-2139,Inteligencia Artificial,Tecnólogo,40.0,10,68.0,Híbrido,Sí
+EST-2140,Bases de Datos SQL,Técnico,20.0,9,82.0,Asincrónico,No
+EST-2141,Bases de Datos SQL,Tecnólogo,25.0,20,55.0,Sincrónico,No
+EST-2142,Python para Datos,Posgrado,10.0,31,75.0,Sincrónico,Sí
+EST-2143,Bases de Datos SQL,Técnico,15.5,58,,Asincrónico,Sí
+EST-2144,Arquitectura Cloud,Profesional,20.0,43,90.0,Asincrónico,No
+EST-2145,Bases de Datos SQL,Técnico,10.0,16,55.0,Asincrónico,No
+EST-2146,Desarrollo Web,Tecnólogo,10.0,37,75.0,Sincrónico,No
+EST-2147,Bases de Datos SQL,Posgrado,20.0,35,75.0,Asincrónico,Sí
+EST-2148,Inteligencia Artificial,Técnico,32.5,58,90.0,Asincrónico,Sí
+EST-2149,Bases de Datos SQL,Posgrado,50.0,33,82.0,Sincrónico,Sí
+EST-2150,Python para Datos,Técnico,15.5,59,82.0,Asincrónico,Sí
+EST-2151,Desarrollo Web,Posgrado,32.5,7,55.0,Asincrónico,No
+EST-2152,Desarrollo Web,Profesional,10.0,44,75.0,Asincrónico,Sí
+EST-2153,Desarrollo Web,Tecnólogo,50.0,6,82.0,Híbrido,Sí
+EST-2154,Desarrollo Web,Posgrado,20.0,48,75.0,Asincrónico,No
+EST-2155,Bases de Datos SQL,Técnico,25.0,12,,Asincrónico,Sí
+EST-2156,Python para Datos,Tecnólogo,25.0,35,,Asincrónico,Sí
+EST-2157,Bases de Datos SQL,Profesional,10.0,21,82.0,Sincrónico,Sí
+EST-2158,Bases de Datos SQL,Posgrado,10.0,31,75.0,Asincrónico,No
+EST-2159,Python para Datos,Tecnólogo,20.0,23,68.0,Asincrónico,No
+EST-2160,Desarrollo Web,Posgrado,25.0,15,,Sincrónico,No
+EST-2161,Inteligencia Artificial,Profesional,15.5,7,90.0,Híbrido,Sí
+EST-2162,Bases de Datos SQL,Técnico,25.0,20,90.0,Asincrónico,Sí
+EST-2163,Desarrollo Web,Posgrado,15.5,15,90.0,Híbrido,No
+EST-2164,Inteligencia Artificial,Tecnólogo,32.5,14,75.0,Asincrónico,No
+EST-2165,Python para Datos,Tecnólogo,20.0,49,82.0,Híbrido,Sí
+EST-2166,Inteligencia Artificial,Profesional,20.0,31,55.0,Asincrónico,Sí
+EST-2167,Desarrollo Web,Técnico,15.5,60,90.0,Híbrido,Sí
+EST-2168,Desarrollo Web,Profesional,15.5,60,82.0,Asincrónico,Sí
+EST-2169,Arquitectura Cloud,Tecnólogo,25.0,13,90.0,Asincrónico,Sí
+EST-2170,Python para Datos,Técnico,10.0,38,82.0,Sincrónico,Sí
+EST-2171,Python para Datos,Profesional,40.0,34,68.0,Asincrónico,Sí
+EST-2172,Python para Datos,Posgrado,15.5,52,82.0,Sincrónico,No
+EST-2173,Inteligencia Artificial,Técnico,25.0,59,98.0,Híbrido,No
+EST-2174,Python para Datos,Tecnólogo,25.0,57,75.0,Híbrido,Sí
+EST-2175,Python para Datos,Posgrado,25.0,27,75.0,Sincrónico,Sí
+EST-2176,Inteligencia Artificial,Posgrado,32.5,6,75.0,Híbrido,Sí
+EST-2177,Arquitectura Cloud,Tecnólogo,40.0,8,82.0,Asincrónico,Sí
+EST-2178,Desarrollo Web,Tecnólogo,25.0,6,75.0,Sincrónico,No
+EST-2179,Arquitectura Cloud,Tecnólogo,15.5,7,75.0,Sincrónico,Sí
+EST-2180,Python para Datos,Profesional,25.0,34,98.0,Híbrido,Sí
+EST-2181,Arquitectura Cloud,Profesional,15.5,26,75.0,Asincrónico,Sí
+EST-2182,Inteligencia Artificial,Tecnólogo,32.5,20,90.0,Sincrónico,Sí
+EST-2183,Desarrollo Web,Tecnólogo,10.0,7,68.0,Híbrido,Sí
+EST-2184,Arquitectura Cloud,Posgrado,10.0,36,,Híbrido,Sí
+EST-2185,Bases de Datos SQL,Tecnólogo,10.0,56,75.0,Asincrónico,Sí
+EST-2186,Arquitectura Cloud,Tecnólogo,25.0,48,90.0,Asincrónico,Sí
+EST-2187,Bases de Datos SQL,Profesional,25.0,52,55.0,Sincrónico,Sí
+EST-2188,Bases de Datos SQL,Profesional,10.0,16,75.0,Asincrónico,Sí
+EST-2189,Bases de Datos SQL,Técnico,10.0,8,82.0,Asincrónico,No
+EST-2190,Desarrollo Web,Profesional,10.0,57,82.0,Asincrónico,No
+EST-2191,Bases de Datos SQL,Técnico,,60,68.0,Híbrido,Sí
+EST-2192,Desarrollo Web,Posgrado,15.5,38,55.0,Sincrónico,Sí
+EST-2193,Arquitectura Cloud,Tecnólogo,20.0,15,55.0,Sincrónico,Sí
+EST-2194,Bases de Datos SQL,Técnico,15.5,57,68.0,Asincrónico,Sí
+EST-2195,Arquitectura Cloud,Técnico,20.0,16,,Asincrónico,No
+EST-2196,Inteligencia Artificial,Posgrado,10.0,29,82.0,Asincrónico,Sí
+EST-2197,Bases de Datos SQL,Posgrado,50.0,8,82.0,Asincrónico,Sí
+EST-2198,Inteligencia Artificial,Tecnólogo,32.5,25,98.0,Híbrido,Sí
+EST-2199,Desarrollo Web,Posgrado,10.0,59,,Híbrido,Sí
+EST-2200,Arquitectura Cloud,Posgrado,15.5,43,68.0,Sincrónico,Sí
+EST-2201,Desarrollo Web,Posgrado,15.5,53,82.0,Sincrónico,No
+EST-2202,Arquitectura Cloud,Técnico,25.0,51,82.0,Sincrónico,No
+EST-2203,Python para Datos,Profesional,20.0,6,75.0,Sincrónico,Sí
+EST-2204,Python para Datos,Técnico,50.0,48,98.0,Híbrido,Sí
+EST-2205,Desarrollo Web,Profesional,,31,55.0,Sincrónico,No
+EST-2206,Inteligencia Artificial,Técnico,32.5,36,55.0,Híbrido,Sí
+EST-2207,Desarrollo Web,Profesional,15.5,16,75.0,Asincrónico,Sí
+EST-2208,Bases de Datos SQL,Posgrado,20.0,46,55.0,Híbrido,Sí
+EST-2209,Inteligencia Artificial,Posgrado,20.0,5,,Híbrido,No
+EST-2210,Arquitectura Cloud,Técnico,,46,82.0,Asincrónico,Sí
+EST-2211,Bases de Datos SQL,Posgrado,10.0,47,82.0,Asincrónico,Sí
+EST-2212,Arquitectura Cloud,Profesional,10.0,28,68.0,Híbrido,Sí
+EST-2213,Inteligencia Artificial,Profesional,,40,55.0,Híbrido,No
+EST-2214,Bases de Datos SQL,Posgrado,20.0,19,,Asincrónico,No
+EST-2215,Arquitectura Cloud,Técnico,20.0,14,,Sincrónico,No
+EST-2216,Inteligencia Artificial,Posgrado,25.0,49,,Sincrónico,Sí
+EST-2217,Desarrollo Web,Tecnólogo,10.0,32,55.0,Asincrónico,Sí
+EST-2218,Inteligencia Artificial,Profesional,15.5,6,75.0,Sincrónico,No
+EST-2219,Desarrollo Web,Posgrado,40.0,41,,Asincrónico,Sí
+EST-2220,Arquitectura Cloud,Profesional,20.0,43,82.0,Asincrónico,Sí
+EST-2221,Bases de Datos SQL,Profesional,20.0,29,90.0,Asincrónico,Sí
+EST-2222,Arquitectura Cloud,Posgrado,10.0,32,82.0,Asincrónico,Sí
+EST-2223,Python para Datos,Técnico,15.5,43,75.0,Sincrónico,Sí
+EST-2224,Desarrollo Web,Profesional,25.0,17,75.0,Asincrónico,Sí
+EST-2225,Inteligencia Artificial,Técnico,15.5,6,68.0,Sincrónico,Sí
+EST-2226,Bases de Datos SQL,Tecnólogo,,52,68.0,Asincrónico,Sí
+EST-2227,Arquitectura Cloud,Técnico,10.0,50,75.0,Asincrónico,Sí
+EST-2228,Desarrollo Web,Técnico,20.0,18,82.0,Sincrónico,No
+EST-2229,Desarrollo Web,Técnico,25.0,19,45.0,Híbrido,No
+EST-2230,Arquitectura Cloud,Profesional,32.5,11,75.0,Sincrónico,Sí
+EST-2231,Inteligencia Artificial,Profesional,20.0,23,75.0,Híbrido,Sí
+EST-2232,Bases de Datos SQL,Posgrado,15.5,22,82.0,Sincrónico,No
+EST-2233,Arquitectura Cloud,Técnico,20.0,42,90.0,Asincrónico,Sí
+EST-2234,Python para Datos,Técnico,15.5,22,75.0,Híbrido,Sí
+EST-2235,Arquitectura Cloud,Profesional,,57,82.0,Asincrónico,Sí
+EST-2236,Desarrollo Web,Posgrado,40.0,14,75.0,Sincrónico,Sí
+EST-2237,Desarrollo Web,Profesional,25.0,23,75.0,Sincrónico,No
+EST-2238,Desarrollo Web,Posgrado,15.5,59,,Híbrido,Sí
+EST-2239,Inteligencia Artificial,Técnico,20.0,12,55.0,Híbrido,Sí
+EST-2240,Arquitectura Cloud,Técnico,25.0,37,55.0,Sincrónico,Sí
+EST-2241,Desarrollo Web,Tecnólogo,10.0,8,82.0,Asincrónico,No
+EST-2242,Inteligencia Artificial,Técnico,20.0,14,90.0,Híbrido,No
+EST-2243,Bases de Datos SQL,Técnico,,12,98.0,Híbrido,No
+EST-2244,Inteligencia Artificial,Técnico,40.0,46,,Asincrónico,Sí
+EST-2245,Python para Datos,Posgrado,,31,75.0,Asincrónico,Sí
+EST-2246,Python para Datos,Tecnólogo,10.0,46,68.0,Sincrónico,Sí
+EST-2247,Bases de Datos SQL,Profesional,15.5,44,,Híbrido,No
+EST-2248,Python para Datos,Profesional,10.0,57,82.0,Sincrónico,No
+EST-2249,Inteligencia Artificial,Posgrado,,43,82.0,Sincrónico,Sí
+EST-2250,Desarrollo Web,Profesional,32.5,59,68.0,Híbrido,No
+EST-2251,Desarrollo Web,Técnico,15.5,33,,Asincrónico,Sí
+EST-2252,Python para Datos,Tecnólogo,50.0,28,45.0,Sincrónico,Sí
+EST-2253,Python para Datos,Profesional,32.5,45,75.0,Asincrónico,Sí
+EST-2254,Bases de Datos SQL,Posgrado,15.5,31,98.0,Híbrido,No
+EST-2255,Desarrollo Web,Tecnólogo,15.5,39,98.0,Asincrónico,Sí
+EST-2256,Bases de Datos SQL,Posgrado,25.0,41,75.0,Sincrónico,Sí
+EST-2257,Python para Datos,Tecnólogo,15.5,34,82.0,Sincrónico,No
+EST-2258,Desarrollo Web,Profesional,10.0,59,,Híbrido,Sí
+EST-2259,Inteligencia Artificial,Técnico,15.5,44,82.0,Sincrónico,Sí
+EST-2260,Python para Datos,Técnico,20.0,36,75.0,Asincrónico,Sí
+EST-2261,Python para Datos,Posgrado,40.0,58,75.0,Asincrónico,Sí
+EST-2262,Arquitectura Cloud,Técnico,32.5,6,,Híbrido,Sí
+EST-2263,Inteligencia Artificial,Posgrado,32.5,55,82.0,Híbrido,No
+EST-2264,Desarrollo Web,Tecnólogo,20.0,52,68.0,Asincrónico,Sí
+EST-2265,Bases de Datos SQL,Tecnólogo,10.0,45,68.0,Sincrónico,Sí
+EST-2266,Desarrollo Web,Técnico,25.0,42,90.0,Sincrónico,No
+EST-2267,Python para Datos,Posgrado,20.0,39,82.0,Sincrónico,Sí
+EST-2268,Python para Datos,Técnico,32.5,26,98.0,Sincrónico,Sí
+EST-2269,Inteligencia Artificial,Profesional,10.0,56,90.0,Asincrónico,No
+EST-2270,Arquitectura Cloud,Tecnólogo,10.0,32,82.0,Híbrido,No
+EST-2271,Inteligencia Artificial,Técnico,32.5,41,75.0,Híbrido,Sí
+EST-2272,Arquitectura Cloud,Técnico,15.5,5,75.0,Asincrónico,No
+EST-2273,Inteligencia Artificial,Tecnólogo,32.5,39,68.0,Asincrónico,Sí
+EST-2274,Python para Datos,Técnico,40.0,22,82.0,Sincrónico,No
+EST-2275,Bases de Datos SQL,Posgrado,15.5,26,82.0,Asincrónico,Sí
+EST-2276,Desarrollo Web,Técnico,20.0,7,75.0,Sincrónico,Sí
+EST-2277,Desarrollo Web,Técnico,25.0,28,,Híbrido,Sí
+EST-2278,Desarrollo Web,Profesional,10.0,35,82.0,Asincrónico,Sí
+EST-2279,Desarrollo Web,Tecnólogo,50.0,46,90.0,Híbrido,Sí
+EST-2280,Desarrollo Web,Profesional,20.0,38,98.0,Sincrónico,Sí
+EST-2281,Desarrollo Web,Posgrado,15.5,50,75.0,Híbrido,Sí
+EST-2282,Python para Datos,Posgrado,32.5,11,68.0,Asincrónico,Sí
+EST-2283,Desarrollo Web,Posgrado,25.0,47,82.0,Sincrónico,No
+EST-2284,Inteligencia Artificial,Técnico,25.0,60,90.0,Sincrónico,No
+EST-2285,Python para Datos,Técnico,50.0,21,82.0,Asincrónico,No
+EST-2286,Arquitectura Cloud,Tecnólogo,15.5,44,90.0,Híbrido,No
+EST-2287,Bases de Datos SQL,Técnico,40.0,41,82.0,Sincrónico,Sí
+EST-2288,Desarrollo Web,Técnico,50.0,16,90.0,Sincrónico,No
+EST-2289,Bases de Datos SQL,Técnico,25.0,22,68.0,Asincrónico,Sí
+EST-2290,Python para Datos,Técnico,10.0,27,82.0,Sincrónico,Sí
+EST-2291,Arquitectura Cloud,Tecnólogo,10.0,18,82.0,Híbrido,No
+EST-2292,Inteligencia Artificial,Profesional,20.0,34,75.0,Híbrido,No
+EST-2293,Bases de Datos SQL,Profesional,10.0,29,82.0,Asincrónico,No
+EST-2294,Python para Datos,Tecnólogo,10.0,36,,Sincrónico,No
+EST-2295,Desarrollo Web,Profesional,32.5,39,90.0,Híbrido,Sí
+EST-2296,Python para Datos,Tecnólogo,10.0,32,,Asincrónico,Sí
+EST-2297,Inteligencia Artificial,Profesional,25.0,51,,Sincrónico,No
+EST-2298,Bases de Datos SQL,Técnico,15.5,19,,Asincrónico,Sí
+EST-2299,Bases de Datos SQL,Posgrado,40.0,24,82.0,Asincrónico,Sí
+EST-2300,Python para Datos,Profesional,,36,68.0,Asincrónico,No
+EST-2301,Arquitectura Cloud,Técnico,10.0,10,55.0,Híbrido,No
+EST-2302,Arquitectura Cloud,Tecnólogo,,39,75.0,Asincrónico,Sí
+EST-2303,Bases de Datos SQL,Tecnólogo,32.5,25,90.0,Híbrido,No
+EST-2304,Inteligencia Artificial,Posgrado,15.5,54,68.0,Sincrónico,No
+EST-2305,Arquitectura Cloud,Profesional,15.5,19,55.0,Híbrido,No
+EST-2306,Arquitectura Cloud,Posgrado,10.0,31,98.0,Asincrónico,No
+EST-2307,Inteligencia Artificial,Profesional,15.5,17,45.0,Asincrónico,Sí
+EST-2308,Desarrollo Web,Técnico,20.0,39,90.0,Híbrido,Sí
+EST-2309,Arquitectura Cloud,Posgrado,,7,68.0,Asincrónico,No
+EST-2310,Python para Datos,Tecnólogo,32.5,19,82.0,Asincrónico,Sí
+EST-2311,Python para Datos,Profesional,15.5,17,75.0,Híbrido,No
+EST-2312,Desarrollo Web,Técnico,15.5,26,90.0,Sincrónico,Sí
+EST-2313,Inteligencia Artificial,Posgrado,20.0,21,68.0,Híbrido,Sí
+EST-2314,Inteligencia Artificial,Tecnólogo,32.5,25,82.0,Asincrónico,Sí
+EST-2315,Arquitectura Cloud,Técnico,20.0,14,82.0,Asincrónico,Sí
+EST-2316,Desarrollo Web,Técnico,15.5,17,68.0,Híbrido,Sí
+EST-2317,Bases de Datos SQL,Posgrado,10.0,22,82.0,Híbrido,No
+EST-2318,Bases de Datos SQL,Tecnólogo,40.0,42,,Híbrido,Sí
+EST-2319,Python para Datos,Posgrado,32.5,14,,Sincrónico,No
+EST-2320,Desarrollo Web,Profesional,,35,90.0,Híbrido,Sí
+EST-2321,Python para Datos,Tecnólogo,20.0,38,82.0,Sincrónico,Sí
+EST-2322,Arquitectura Cloud,Profesional,20.0,30,,Híbrido,Sí
+EST-2323,Python para Datos,Profesional,32.5,32,,Asincrónico,No
+EST-2324,Bases de Datos SQL,Profesional,25.0,30,68.0,Asincrónico,Sí
+EST-2325,Arquitectura Cloud,Posgrado,40.0,41,68.0,Sincrónico,No
+EST-2326,Desarrollo Web,Profesional,32.5,40,75.0,Asincrónico,Sí
+EST-2327,Desarrollo Web,Técnico,10.0,23,68.0,Sincrónico,Sí
+EST-2328,Inteligencia Artificial,Técnico,25.0,39,75.0,Sincrónico,No
+EST-2329,Arquitectura Cloud,Posgrado,10.0,19,82.0,Sincrónico,No
+EST-2330,Arquitectura Cloud,Tecnólogo,10.0,54,90.0,Asincrónico,No
+EST-2331,Bases de Datos SQL,Técnico,10.0,45,,Híbrido,No
+EST-2332,Desarrollo Web,Técnico,32.5,56,,Híbrido,Sí
+EST-2333,Arquitectura Cloud,Posgrado,10.0,28,98.0,Sincrónico,Sí
+EST-2334,Desarrollo Web,Posgrado,25.0,47,75.0,Híbrido,Sí
+EST-2335,Arquitectura Cloud,Tecnólogo,50.0,60,75.0,Asincrónico,Sí
+EST-2336,Python para Datos,Tecnólogo,,53,68.0,Híbrido,Sí
+EST-2337,Python para Datos,Profesional,25.0,28,55.0,Asincrónico,Sí
+EST-2338,Arquitectura Cloud,Técnico,32.5,42,,Híbrido,No
+EST-2339,Arquitectura Cloud,Tecnólogo,,44,90.0,Híbrido,Sí
+EST-2340,Inteligencia Artificial,Profesional,,8,82.0,Híbrido,No
+EST-2341,Inteligencia Artificial,Técnico,,20,55.0,Asincrónico,Sí
+EST-2342,Inteligencia Artificial,Tecnólogo,,23,,Híbrido,Sí
+EST-2343,Desarrollo Web,Posgrado,50.0,6,82.0,Asincrónico,Sí
+EST-2344,Desarrollo Web,Tecnólogo,10.0,22,90.0,Híbrido,Sí
+EST-2345,Desarrollo Web,Tecnólogo,15.5,50,90.0,Sincrónico,Sí
+EST-2346,Desarrollo Web,Posgrado,10.0,50,68.0,Asincrónico,No
+EST-2347,Arquitectura Cloud,Posgrado,25.0,57,68.0,Híbrido,Sí
+EST-2348,Arquitectura Cloud,Profesional,20.0,21,,Híbrido,No
+EST-2349,Bases de Datos SQL,Posgrado,20.0,8,90.0,Sincrónico,Sí
+EST-2350,Inteligencia Artificial,Posgrado,40.0,34,,Sincrónico,Sí
+EST-2351,Python para Datos,Posgrado,15.5,53,,Asincrónico,Sí
+EST-2352,Arquitectura Cloud,Tecnólogo,20.0,18,90.0,Sincrónico,No
+EST-2353,Python para Datos,Posgrado,15.5,8,75.0,Híbrido,Sí
+EST-2354,Python para Datos,Tecnólogo,20.0,10,,Sincrónico,Sí
+EST-2355,Desarrollo Web,Profesional,15.5,44,82.0,Híbrido,Sí
+EST-2356,Python para Datos,Posgrado,,29,75.0,Sincrónico,Sí
+EST-2357,Desarrollo Web,Profesional,20.0,51,55.0,Asincrónico,No
+EST-2358,Arquitectura Cloud,Tecnólogo,20.0,34,,Híbrido,Sí
+EST-2359,Inteligencia Artificial,Técnico,10.0,27,82.0,Sincrónico,No
+EST-2360,Arquitectura Cloud,Tecnólogo,15.5,23,82.0,Sincrónico,Sí
+EST-2361,Python para Datos,Técnico,10.0,23,75.0,Híbrido,Sí
+EST-2362,Bases de Datos SQL,Posgrado,25.0,56,75.0,Sincrónico,Sí
+EST-2363,Bases de Datos SQL,Posgrado,15.5,58,82.0,Sincrónico,No
+EST-2364,Bases de Datos SQL,Tecnólogo,15.5,39,,Sincrónico,Sí
+EST-2365,Bases de Datos SQL,Profesional,50.0,60,,Asincrónico,Sí
+EST-2366,Python para Datos,Posgrado,32.5,39,82.0,Asincrónico,No
+EST-2367,Arquitectura Cloud,Posgrado,15.5,44,82.0,Híbrido,Sí
+EST-2368,Inteligencia Artificial,Tecnólogo,32.5,19,90.0,Asincrónico,No
+EST-2369,Bases de Datos SQL,Tecnólogo,32.5,36,68.0,Asincrónico,Sí
+EST-2370,Inteligencia Artificial,Profesional,25.0,27,75.0,Híbrido,No
+EST-2371,Python para Datos,Profesional,20.0,60,,Híbrido,Sí
+EST-2372,Python para Datos,Técnico,32.5,18,98.0,Asincrónico,No
+EST-2373,Desarrollo Web,Técnico,20.0,30,90.0,Híbrido,Sí
+EST-2374,Bases de Datos SQL,Tecnólogo,20.0,47,90.0,Asincrónico,Sí
+EST-2375,Python para Datos,Técnico,20.0,51,68.0,Asincrónico,No
+EST-2376,Inteligencia Artificial,Posgrado,10.0,40,75.0,Asincrónico,Sí
+EST-2377,Desarrollo Web,Posgrado,50.0,19,,Sincrónico,Sí
+EST-2378,Desarrollo Web,Profesional,10.0,53,55.0,Híbrido,No
+EST-2379,Arquitectura Cloud,Tecnólogo,40.0,6,90.0,Híbrido,No
+EST-2380,Desarrollo Web,Técnico,25.0,23,45.0,Híbrido,No
+EST-2381,Desarrollo Web,Técnico,,34,,Híbrido,No
+EST-2382,Python para Datos,Técnico,15.5,57,45.0,Asincrónico,No
+EST-2383,Bases de Datos SQL,Profesional,40.0,50,90.0,Híbrido,No
+EST-2384,Desarrollo Web,Tecnólogo,20.0,17,75.0,Asincrónico,Sí
+EST-2385,Inteligencia Artificial,Posgrado,15.5,19,82.0,Sincrónico,Sí
+EST-2386,Desarrollo Web,Posgrado,15.5,52,68.0,Híbrido,No
+EST-2387,Arquitectura Cloud,Tecnólogo,20.0,13,55.0,Sincrónico,No
+EST-2388,Desarrollo Web,Profesional,40.0,37,,Sincrónico,Sí
+EST-2389,Arquitectura Cloud,Tecnólogo,20.0,7,75.0,Híbrido,Sí
+EST-2390,Inteligencia Artificial,Técnico,20.0,34,,Sincrónico,No
+EST-2391,Python para Datos,Tecnólogo,20.0,60,82.0,Sincrónico,Sí
+EST-2392,Desarrollo Web,Posgrado,15.5,29,82.0,Asincrónico,Sí
+EST-2393,Desarrollo Web,Posgrado,15.5,51,75.0,Asincrónico,Sí
+EST-2394,Bases de Datos SQL,Tecnólogo,40.0,37,82.0,Asincrónico,Sí
+EST-2395,Arquitectura Cloud,Profesional,40.0,11,82.0,Sincrónico,Sí
+EST-2396,Arquitectura Cloud,Técnico,20.0,35,68.0,Híbrido,No
+EST-2397,Arquitectura Cloud,Tecnólogo,15.5,21,75.0,Asincrónico,Sí
+EST-2398,Desarrollo Web,Posgrado,15.5,39,,Asincrónico,Sí
+EST-2399,Python para Datos,Técnico,,48,75.0,Sincrónico,Sí
+EST-2400,Inteligencia Artificial,Técnico,,55,75.0,Asincrónico,No
+EST-2401,Arquitectura Cloud,Posgrado,20.0,52,82.0,Sincrónico,Sí
+EST-2402,Desarrollo Web,Tecnólogo,,6,90.0,Sincrónico,No
+EST-2403,Inteligencia Artificial,Tecnólogo,40.0,21,75.0,Híbrido,Sí
+EST-2404,Bases de Datos SQL,Posgrado,40.0,50,75.0,Sincrónico,No
+EST-2405,Python para Datos,Posgrado,10.0,16,,Sincrónico,Sí
+EST-2406,Bases de Datos SQL,Técnico,50.0,56,75.0,Híbrido,Sí
+EST-2407,Arquitectura Cloud,Tecnólogo,15.5,46,55.0,Sincrónico,Sí
+EST-2408,Python para Datos,Posgrado,10.0,5,82.0,Sincrónico,No
+EST-2409,Python para Datos,Posgrado,20.0,9,55.0,Asincrónico,No
+EST-2410,Desarrollo Web,Técnico,,53,90.0,Híbrido,Sí
+EST-2411,Python para Datos,Profesional,15.5,44,75.0,Híbrido,Sí
+EST-2412,Inteligencia Artificial,Técnico,20.0,21,68.0,Sincrónico,No
+EST-2413,Arquitectura Cloud,Tecnólogo,10.0,51,68.0,Sincrónico,Sí
+EST-2414,Python para Datos,Técnico,25.0,38,68.0,Asincrónico,Sí
+EST-2415,Arquitectura Cloud,Posgrado,20.0,31,90.0,Sincrónico,No
+EST-2416,Python para Datos,Técnico,32.5,53,82.0,Híbrido,Sí
+EST-2417,Desarrollo Web,Profesional,25.0,7,82.0,Sincrónico,No
+EST-2418,Desarrollo Web,Tecnólogo,10.0,53,75.0,Sincrónico,Sí
+EST-2419,Desarrollo Web,Tecnólogo,32.5,32,98.0,Asincrónico,Sí
+EST-2420,Arquitectura Cloud,Profesional,32.5,48,68.0,Sincrónico,Sí
+EST-2421,Desarrollo Web,Tecnólogo,10.0,5,68.0,Sincrónico,No
+EST-2422,Inteligencia Artificial,Posgrado,10.0,15,75.0,Híbrido,Sí
+EST-2423,Bases de Datos SQL,Profesional,20.0,14,82.0,Sincrónico,Sí
+EST-2424,Desarrollo Web,Técnico,25.0,15,75.0,Asincrónico,No
+EST-2425,Bases de Datos SQL,Tecnólogo,32.5,47,45.0,Híbrido,No
+EST-2426,Inteligencia Artificial,Técnico,20.0,36,75.0,Asincrónico,Sí
+EST-2427,Desarrollo Web,Tecnólogo,40.0,50,,Híbrido,Sí
+EST-2428,Arquitectura Cloud,Profesional,20.0,25,82.0,Sincrónico,Sí
+EST-2429,Python para Datos,Tecnólogo,10.0,31,90.0,Híbrido,Sí
+EST-2430,Inteligencia Artificial,Técnico,10.0,46,75.0,Híbrido,Sí
+EST-2431,Inteligencia Artificial,Posgrado,,60,82.0,Híbrido,Sí
+EST-2432,Inteligencia Artificial,Profesional,40.0,52,98.0,Sincrónico,Sí
+EST-2433,Python para Datos,Profesional,25.0,38,75.0,Híbrido,Sí
+EST-2434,Inteligencia Artificial,Técnico,,12,55.0,Asincrónico,No
+EST-2435,Inteligencia Artificial,Profesional,10.0,26,,Asincrónico,Sí
+EST-2436,Bases de Datos SQL,Técnico,10.0,37,75.0,Sincrónico,Sí
+EST-2437,Bases de Datos SQL,Tecnólogo,20.0,54,45.0,Asincrónico,No
+EST-2438,Inteligencia Artificial,Posgrado,40.0,15,75.0,Híbrido,Sí
+EST-2439,Desarrollo Web,Profesional,25.0,14,90.0,Asincrónico,No
+EST-2440,Inteligencia Artificial,Tecnólogo,20.0,51,90.0,Asincrónico,Sí
+EST-2441,Bases de Datos SQL,Técnico,10.0,7,82.0,Asincrónico,Sí
+EST-2442,Arquitectura Cloud,Profesional,10.0,50,,Sincrónico,Sí
+EST-2443,Python para Datos,Tecnólogo,10.0,32,98.0,Híbrido,No
+EST-2444,Arquitectura Cloud,Posgrado,25.0,37,82.0,Sincrónico,Sí
+EST-2445,Arquitectura Cloud,Profesional,10.0,23,45.0,Sincrónico,Sí
+EST-2446,Bases de Datos SQL,Posgrado,32.5,21,98.0,Sincrónico,Sí
+EST-2447,Bases de Datos SQL,Técnico,10.0,48,55.0,Híbrido,No
+EST-2448,Desarrollo Web,Profesional,10.0,22,68.0,Híbrido,No
+EST-2449,Bases de Datos SQL,Profesional,15.5,30,45.0,Híbrido,Sí
+EST-2450,Bases de Datos SQL,Tecnólogo,10.0,12,55.0,Asincrónico,Sí
+EST-2451,Arquitectura Cloud,Técnico,32.5,48,68.0,Asincrónico,No
+EST-2452,Inteligencia Artificial,Profesional,25.0,11,68.0,Sincrónico,Sí
+EST-2453,Bases de Datos SQL,Posgrado,15.5,24,68.0,Sincrónico,Sí
+EST-2454,Arquitectura Cloud,Posgrado,15.5,34,90.0,Asincrónico,Sí
+EST-2455,Inteligencia Artificial,Tecnólogo,25.0,49,90.0,Asincrónico,Sí
+EST-2456,Desarrollo Web,Posgrado,15.5,22,82.0,Híbrido,No
+EST-2457,Bases de Datos SQL,Tecnólogo,25.0,19,75.0,Híbrido,Sí
+EST-2458,Bases de Datos SQL,Técnico,20.0,24,90.0,Híbrido,Sí
+EST-2459,Python para Datos,Técnico,,24,98.0,Sincrónico,Sí
+EST-2460,Bases de Datos SQL,Posgrado,25.0,51,82.0,Híbrido,Sí
+EST-2461,Desarrollo Web,Técnico,20.0,19,45.0,Asincrónico,Sí
+EST-2462,Inteligencia Artificial,Técnico,32.5,59,68.0,Asincrónico,No
+EST-2463,Desarrollo Web,Técnico,,48,68.0,Híbrido,Sí
+EST-2464,Python para Datos,Posgrado,32.5,22,82.0,Sincrónico,Sí
+EST-2465,Python para Datos,Tecnólogo,25.0,15,75.0,Sincrónico,Sí
+EST-2466,Inteligencia Artificial,Posgrado,32.5,41,82.0,Sincrónico,Sí
+EST-2467,Python para Datos,Posgrado,32.5,25,55.0,Asincrónico,Sí
+EST-2468,Inteligencia Artificial,Posgrado,25.0,34,75.0,Sincrónico,Sí
+EST-2469,Python para Datos,Profesional,10.0,19,68.0,Híbrido,Sí
+EST-2470,Arquitectura Cloud,Profesional,25.0,51,55.0,Sincrónico,Sí
+EST-2471,Bases de Datos SQL,Tecnólogo,20.0,43,,Híbrido,Sí
+EST-2472,Desarrollo Web,Técnico,50.0,17,82.0,Sincrónico,Sí
+EST-2473,Inteligencia Artificial,Técnico,32.5,6,75.0,Asincrónico,No
+EST-2474,Bases de Datos SQL,Profesional,50.0,40,82.0,Sincrónico,Sí
+EST-2475,Inteligencia Artificial,Técnico,20.0,32,68.0,Sincrónico,Sí
+EST-2476,Desarrollo Web,Técnico,15.5,31,90.0,Híbrido,Sí
+EST-2477,Bases de Datos SQL,Tecnólogo,15.5,58,82.0,Asincrónico,Sí
+EST-2478,Arquitectura Cloud,Técnico,25.0,29,,Asincrónico,Sí
+EST-2479,Python para Datos,Profesional,32.5,40,90.0,Sincrónico,Sí
+EST-2480,Python para Datos,Tecnólogo,25.0,31,75.0,Sincrónico,No
+EST-2481,Python para Datos,Técnico,32.5,47,98.0,Híbrido,Sí
+EST-2482,Bases de Datos SQL,Tecnólogo,50.0,25,68.0,Híbrido,Sí
+EST-2483,Inteligencia Artificial,Posgrado,32.5,48,82.0,Asincrónico,No
+EST-2484,Bases de Datos SQL,Posgrado,10.0,26,98.0,Asincrónico,Sí
+EST-2485,Python para Datos,Profesional,20.0,15,82.0,Sincrónico,Sí
+EST-2486,Arquitectura Cloud,Tecnólogo,,19,90.0,Híbrido,Sí
+EST-2487,Inteligencia Artificial,Tecnólogo,40.0,40,90.0,Sincrónico,No
+EST-2488,Bases de Datos SQL,Posgrado,40.0,52,75.0,Asincrónico,Sí
+EST-2489,Inteligencia Artificial,Técnico,20.0,56,75.0,Híbrido,No
+EST-2490,Bases de Datos SQL,Posgrado,32.5,42,,Híbrido,Sí
+EST-2491,Inteligencia Artificial,Posgrado,10.0,50,68.0,Sincrónico,No
+EST-2492,Arquitectura Cloud,Posgrado,20.0,22,75.0,Asincrónico,Sí
+EST-2493,Desarrollo Web,Profesional,32.5,31,,Asincrónico,Sí
+EST-2494,Bases de Datos SQL,Profesional,25.0,19,82.0,Asincrónico,No
+EST-2495,Python para Datos,Técnico,20.0,11,82.0,Asincrónico,Sí
+EST-2496,Arquitectura Cloud,Posgrado,10.0,18,82.0,Híbrido,Sí
+EST-2497,Python para Datos,Profesional,10.0,46,68.0,Asincrónico,Sí
+EST-2498,Python para Datos,Técnico,25.0,30,,Híbrido,Sí
+EST-2499,Bases de Datos SQL,Profesional,40.0,22,75.0,Sincrónico,Sí
+EST-2500,Desarrollo Web,Profesional,20.0,7,90.0,Asincrónico,No
+EST-2501,Python para Datos,Posgrado,20.0,16,75.0,Híbrido,No
+EST-2502,Python para Datos,Posgrado,32.5,7,82.0,Sincrónico,Sí
+EST-2503,Python para Datos,Técnico,40.0,25,68.0,Asincrónico,No
+EST-2504,Arquitectura Cloud,Tecnólogo,,28,68.0,Asincrónico,Sí
+EST-2505,Bases de Datos SQL,Posgrado,10.0,27,82.0,Asincrónico,Sí
+EST-2506,Python para Datos,Tecnólogo,15.5,47,75.0,Híbrido,No
+EST-2507,Inteligencia Artificial,Posgrado,20.0,41,90.0,Sincrónico,Sí
+EST-2508,Desarrollo Web,Profesional,,27,82.0,Asincrónico,Sí
+EST-2509,Bases de Datos SQL,Posgrado,10.0,55,82.0,Híbrido,No
+EST-2510,Python para Datos,Tecnólogo,15.5,21,82.0,Asincrónico,No
+EST-2511,Bases de Datos SQL,Profesional,15.5,25,82.0,Híbrido,No
+EST-2512,Bases de Datos SQL,Posgrado,,5,90.0,Asincrónico,No
+EST-2513,Bases de Datos SQL,Tecnólogo,15.5,30,75.0,Híbrido,No
+EST-2514,Python para Datos,Tecnólogo,15.5,5,68.0,Híbrido,Sí
+EST-2515,Inteligencia Artificial,Posgrado,15.5,12,90.0,Asincrónico,Sí
+EST-2516,Bases de Datos SQL,Posgrado,15.5,59,82.0,Asincrónico,Sí
+EST-2517,Bases de Datos SQL,Posgrado,20.0,52,75.0,Asincrónico,Sí
+EST-2518,Inteligencia Artificial,Tecnólogo,,42,45.0,Híbrido,Sí
+EST-2519,Inteligencia Artificial,Profesional,,34,75.0,Asincrónico,Sí
+EST-2520,Bases de Datos SQL,Tecnólogo,15.5,27,82.0,Híbrido,Sí
+EST-2521,Bases de Datos SQL,Posgrado,,9,45.0,Asincrónico,No
+EST-2522,Inteligencia Artificial,Posgrado,40.0,46,75.0,Asincrónico,Sí
+EST-2523,Python para Datos,Posgrado,15.5,45,98.0,Híbrido,Sí
+EST-2524,Desarrollo Web,Tecnólogo,10.0,39,68.0,Sincrónico,Sí
+EST-2525,Inteligencia Artificial,Posgrado,32.5,50,82.0,Híbrido,No
+EST-2526,Desarrollo Web,Profesional,25.0,49,90.0,Sincrónico,No
+EST-2527,Arquitectura Cloud,Técnico,15.5,15,75.0,Asincrónico,No
+EST-2528,Bases de Datos SQL,Profesional,20.0,9,82.0,Sincrónico,No
+EST-2529,Arquitectura Cloud,Tecnólogo,20.0,7,82.0,Híbrido,No
+EST-2530,Python para Datos,Tecnólogo,32.5,27,75.0,Híbrido,Sí
+EST-2531,Arquitectura Cloud,Posgrado,40.0,46,75.0,Híbrido,No
+EST-2532,Desarrollo Web,Técnico,25.0,45,82.0,Asincrónico,Sí
+EST-2533,Bases de Datos SQL,Posgrado,20.0,29,68.0,Sincrónico,Sí
+EST-2534,Bases de Datos SQL,Posgrado,40.0,10,68.0,Híbrido,No
+EST-2535,Inteligencia Artificial,Profesional,15.5,37,82.0,Híbrido,Sí
+EST-2536,Desarrollo Web,Técnico,,41,75.0,Sincrónico,Sí
+EST-2537,Inteligencia Artificial,Tecnólogo,40.0,44,82.0,Sincrónico,No
+EST-2538,Bases de Datos SQL,Profesional,15.5,28,75.0,Sincrónico,Sí
+EST-2539,Arquitectura Cloud,Técnico,,11,75.0,Híbrido,Sí
+EST-2540,Desarrollo Web,Profesional,10.0,13,90.0,Híbrido,No
+EST-2541,Bases de Datos SQL,Tecnólogo,20.0,5,68.0,Híbrido,Sí
+EST-2542,Inteligencia Artificial,Tecnólogo,32.5,47,82.0,Híbrido,No
+EST-2543,Bases de Datos SQL,Tecnólogo,15.5,15,68.0,Asincrónico,Sí
+EST-2544,Desarrollo Web,Profesional,15.5,37,82.0,Asincrónico,Sí
+EST-2545,Arquitectura Cloud,Profesional,15.5,7,,Híbrido,Sí
+EST-2546,Inteligencia Artificial,Tecnólogo,20.0,60,45.0,Asincrónico,Sí
+EST-2547,Bases de Datos SQL,Profesional,32.5,56,82.0,Sincrónico,No
+EST-2548,Arquitectura Cloud,Posgrado,20.0,5,82.0,Híbrido,Sí
+EST-2549,Bases de Datos SQL,Técnico,10.0,26,68.0,Sincrónico,Sí
+EST-2550,Arquitectura Cloud,Profesional,32.5,37,75.0,Híbrido,Sí
+EST-2551,Arquitectura Cloud,Posgrado,25.0,18,75.0,Sincrónico,Sí
+EST-2552,Inteligencia Artificial,Técnico,20.0,32,90.0,Asincrónico,Sí
+EST-2553,Python para Datos,Técnico,25.0,35,68.0,Híbrido,Sí
+EST-2554,Inteligencia Artificial,Profesional,15.5,60,98.0,Híbrido,Sí
+EST-2555,Bases de Datos SQL,Profesional,20.0,32,,Sincrónico,Sí
+EST-2556,Inteligencia Artificial,Posgrado,25.0,7,98.0,Asincrónico,No
+EST-2557,Inteligencia Artificial,Tecnólogo,40.0,42,68.0,Asincrónico,Sí
+EST-2558,Desarrollo Web,Profesional,15.5,13,90.0,Sincrónico,Sí
+EST-2559,Python para Datos,Técnico,10.0,8,55.0,Asincrónico,Sí
+EST-2560,Bases de Datos SQL,Posgrado,50.0,22,45.0,Asincrónico,Sí
+EST-2561,Bases de Datos SQL,Tecnólogo,20.0,45,75.0,Sincrónico,Sí
+EST-2562,Arquitectura Cloud,Técnico,10.0,38,75.0,Sincrónico,Sí
+EST-2563,Arquitectura Cloud,Tecnólogo,32.5,46,82.0,Híbrido,No
+EST-2564,Inteligencia Artificial,Posgrado,10.0,10,90.0,Asincrónico,No
+EST-2565,Arquitectura Cloud,Técnico,25.0,48,68.0,Híbrido,Sí
+EST-2566,Inteligencia Artificial,Posgrado,10.0,59,75.0,Asincrónico,No
+EST-2567,Python para Datos,Técnico,,18,90.0,Asincrónico,No
+EST-2568,Desarrollo Web,Técnico,10.0,58,68.0,Híbrido,No
+EST-2569,Python para Datos,Profesional,10.0,43,82.0,Sincrónico,Sí
+EST-2570,Desarrollo Web,Técnico,40.0,15,75.0,Asincrónico,Sí
+EST-2571,Arquitectura Cloud,Técnico,25.0,20,75.0,Asincrónico,Sí
+EST-2572,Bases de Datos SQL,Profesional,,6,55.0,Sincrónico,Sí
+EST-2573,Desarrollo Web,Técnico,20.0,55,90.0,Sincrónico,Sí
+EST-2574,Desarrollo Web,Técnico,20.0,42,,Asincrónico,Sí
+EST-2575,Python para Datos,Profesional,10.0,58,75.0,Sincrónico,Sí
+EST-2576,Inteligencia Artificial,Técnico,20.0,29,82.0,Híbrido,Sí
+EST-2577,Desarrollo Web,Posgrado,10.0,8,68.0,Asincrónico,No
+EST-2578,Python para Datos,Profesional,10.0,17,75.0,Sincrónico,Sí
+EST-2579,Desarrollo Web,Tecnólogo,20.0,54,,Asincrónico,Sí
+EST-2580,Desarrollo Web,Técnico,20.0,43,90.0,Híbrido,No
+EST-2581,Inteligencia Artificial,Posgrado,,13,75.0,Sincrónico,No
+EST-2582,Inteligencia Artificial,Tecnólogo,32.5,9,45.0,Asincrónico,Sí
+EST-2583,Python para Datos,Profesional,10.0,41,82.0,Sincrónico,No
+EST-2584,Inteligencia Artificial,Tecnólogo,20.0,15,75.0,Sincrónico,No
+EST-2585,Arquitectura Cloud,Técnico,25.0,17,90.0,Asincrónico,No
+EST-2586,Desarrollo Web,Posgrado,15.5,32,90.0,Híbrido,Sí
+EST-2587,Bases de Datos SQL,Profesional,10.0,26,75.0,Sincrónico,Sí
+EST-2588,Inteligencia Artificial,Profesional,25.0,45,75.0,Asincrónico,Sí
+EST-2589,Python para Datos,Técnico,25.0,37,75.0,Sincrónico,Sí
+EST-2590,Desarrollo Web,Técnico,20.0,17,82.0,Sincrónico,Sí
+EST-2591,Inteligencia Artificial,Profesional,10.0,21,,Sincrónico,No
+EST-2592,Arquitectura Cloud,Posgrado,15.5,47,90.0,Híbrido,Sí
+EST-2593,Inteligencia Artificial,Tecnólogo,10.0,51,55.0,Asincrónico,Sí
+EST-2594,Inteligencia Artificial,Profesional,20.0,7,75.0,Asincrónico,Sí
+EST-2595,Arquitectura Cloud,Posgrado,15.5,36,45.0,Asincrónico,No
+EST-2596,Python para Datos,Técnico,10.0,26,45.0,Sincrónico,No
+EST-2597,Bases de Datos SQL,Profesional,25.0,60,68.0,Híbrido,No
+EST-2598,Desarrollo Web,Posgrado,25.0,18,82.0,Asincrónico,Sí
+EST-2599,Arquitectura Cloud,Profesional,50.0,54,75.0,Híbrido,Sí
+EST-2600,Inteligencia Artificial,Técnico,,19,45.0,Sincrónico,No
+EST-2601,Bases de Datos SQL,Profesional,15.5,58,75.0,Sincrónico,Sí
+EST-2602,Desarrollo Web,Posgrado,10.0,6,98.0,Híbrido,No
+EST-2603,Bases de Datos SQL,Técnico,15.5,56,90.0,Sincrónico,No
+EST-2604,Arquitectura Cloud,Técnico,20.0,29,45.0,Sincrónico,Sí
+EST-2605,Arquitectura Cloud,Tecnólogo,25.0,46,75.0,Híbrido,Sí
+EST-2606,Arquitectura Cloud,Tecnólogo,10.0,14,75.0,Sincrónico,Sí
+EST-2607,Desarrollo Web,Profesional,40.0,13,75.0,Asincrónico,Sí
+EST-2608,Python para Datos,Tecnólogo,10.0,22,75.0,Sincrónico,No
+EST-2609,Python para Datos,Tecnólogo,15.5,40,90.0,Asincrónico,No
+EST-2610,Bases de Datos SQL,Tecnólogo,10.0,28,68.0,Asincrónico,Sí
+EST-2611,Arquitectura Cloud,Profesional,32.5,41,82.0,Sincrónico,Sí
+EST-2612,Inteligencia Artificial,Profesional,20.0,22,75.0,Asincrónico,Sí
+EST-2613,Arquitectura Cloud,Profesional,,56,75.0,Asincrónico,Sí
+EST-2614,Desarrollo Web,Tecnólogo,20.0,28,90.0,Asincrónico,Sí
+EST-2615,Bases de Datos SQL,Posgrado,25.0,42,98.0,Sincrónico,Sí
+EST-2616,Desarrollo Web,Técnico,25.0,43,55.0,Asincrónico,No
+EST-2617,Inteligencia Artificial,Tecnólogo,10.0,30,75.0,Sincrónico,Sí
+EST-2618,Desarrollo Web,Técnico,20.0,35,90.0,Sincrónico,Sí
+EST-2619,Desarrollo Web,Profesional,15.5,21,82.0,Híbrido,Sí
+EST-2620,Inteligencia Artificial,Técnico,15.5,53,75.0,Sincrónico,Sí
+EST-2621,Bases de Datos SQL,Técnico,10.0,35,82.0,Asincrónico,Sí
+EST-2622,Desarrollo Web,Profesional,40.0,47,75.0,Asincrónico,Sí
+EST-2623,Python para Datos,Profesional,10.0,19,75.0,Asincrónico,Sí
+EST-2624,Bases de Datos SQL,Tecnólogo,50.0,8,75.0,Sincrónico,Sí
+EST-2625,Python para Datos,Técnico,32.5,7,75.0,Asincrónico,Sí
+EST-2626,Python para Datos,Tecnólogo,32.5,40,82.0,Híbrido,No
+EST-2627,Desarrollo Web,Técnico,10.0,48,55.0,Asincrónico,Sí
+EST-2628,Inteligencia Artificial,Tecnólogo,25.0,51,55.0,Sincrónico,Sí
+EST-2629,Bases de Datos SQL,Profesional,25.0,13,55.0,Híbrido,Sí
+EST-2630,Inteligencia Artificial,Posgrado,32.5,34,98.0,Sincrónico,Sí
+EST-2631,Desarrollo Web,Profesional,32.5,47,98.0,Sincrónico,Sí
+EST-2632,Bases de Datos SQL,Técnico,15.5,53,90.0,Sincrónico,Sí
+EST-2633,Arquitectura Cloud,Técnico,,49,68.0,Sincrónico,Sí
+EST-2634,Python para Datos,Posgrado,25.0,44,82.0,Sincrónico,Sí
+EST-2635,Inteligencia Artificial,Posgrado,20.0,53,90.0,Asincrónico,No
+EST-2636,Bases de Datos SQL,Profesional,10.0,39,75.0,Híbrido,No
+EST-2637,Python para Datos,Profesional,32.5,46,90.0,Híbrido,Sí
+EST-2638,Arquitectura Cloud,Técnico,32.5,40,68.0,Híbrido,No
+EST-2639,Inteligencia Artificial,Técnico,10.0,30,90.0,Sincrónico,Sí
+EST-2640,Arquitectura Cloud,Posgrado,40.0,9,55.0,Híbrido,Sí
+EST-2641,Inteligencia Artificial,Profesional,32.5,32,75.0,Sincrónico,Sí
+EST-2642,Desarrollo Web,Profesional,20.0,23,90.0,Sincrónico,No
+EST-2643,Desarrollo Web,Técnico,15.5,33,90.0,Sincrónico,Sí
+EST-2644,Bases de Datos SQL,Técnico,20.0,60,82.0,Híbrido,Sí
+EST-2645,Python para Datos,Técnico,15.5,53,45.0,Sincrónico,Sí
+EST-2646,Python para Datos,Profesional,10.0,17,68.0,Asincrónico,No
+EST-2647,Desarrollo Web,Profesional,15.5,26,45.0,Asincrónico,No
+EST-2648,Python para Datos,Profesional,25.0,33,45.0,Asincrónico,No
+EST-2649,Arquitectura Cloud,Técnico,40.0,55,98.0,Asincrónico,No
+EST-2650,Bases de Datos SQL,Técnico,40.0,9,75.0,Híbrido,Sí
+EST-2651,Arquitectura Cloud,Posgrado,25.0,59,82.0,Híbrido,Sí
+EST-2652,Python para Datos,Tecnólogo,20.0,10,82.0,Asincrónico,Sí
+EST-2653,Inteligencia Artificial,Técnico,,41,82.0,Híbrido,No
+EST-2654,Inteligencia Artificial,Posgrado,25.0,34,82.0,Híbrido,Sí
+EST-2655,Arquitectura Cloud,Tecnólogo,,50,82.0,Híbrido,Sí
+EST-2656,Inteligencia Artificial,Posgrado,15.5,52,55.0,Híbrido,No
+EST-2657,Inteligencia Artificial,Técnico,20.0,54,75.0,Híbrido,Sí
+EST-2658,Arquitectura Cloud,Tecnólogo,15.5,59,55.0,Sincrónico,No
+EST-2659,Inteligencia Artificial,Posgrado,50.0,59,90.0,Híbrido,Sí
+EST-2660,Inteligencia Artificial,Tecnólogo,20.0,39,75.0,Híbrido,Sí
+EST-2661,Python para Datos,Tecnólogo,15.5,57,90.0,Asincrónico,Sí
+EST-2662,Arquitectura Cloud,Tecnólogo,25.0,55,75.0,Híbrido,Sí
+EST-2663,Arquitectura Cloud,Técnico,10.0,38,90.0,Sincrónico,No
+EST-2664,Arquitectura Cloud,Posgrado,25.0,16,,Asincrónico,No
+EST-2665,Desarrollo Web,Tecnólogo,20.0,38,82.0,Híbrido,Sí
+EST-2666,Desarrollo Web,Profesional,20.0,40,75.0,Sincrónico,Sí
+EST-2667,Arquitectura Cloud,Profesional,15.5,48,75.0,Híbrido,No
+EST-2668,Python para Datos,Tecnólogo,20.0,59,75.0,Asincrónico,Sí
+EST-2669,Inteligencia Artificial,Profesional,20.0,19,90.0,Sincrónico,Sí
+EST-2670,Arquitectura Cloud,Profesional,25.0,15,82.0,Sincrónico,No
+EST-2671,Arquitectura Cloud,Posgrado,15.5,52,82.0,Híbrido,No
+EST-2672,Arquitectura Cloud,Posgrado,10.0,56,82.0,Sincrónico,No
+EST-2673,Python para Datos,Técnico,,38,68.0,Asincrónico,Sí
+EST-2674,Arquitectura Cloud,Técnico,25.0,41,55.0,Híbrido,No
+EST-2675,Bases de Datos SQL,Tecnólogo,40.0,55,55.0,Sincrónico,Sí
+EST-2676,Arquitectura Cloud,Tecnólogo,25.0,39,82.0,Híbrido,Sí
+EST-2677,Python para Datos,Posgrado,50.0,35,82.0,Asincrónico,Sí
+EST-2678,Python para Datos,Técnico,25.0,5,75.0,Híbrido,Sí
+EST-2679,Desarrollo Web,Profesional,40.0,26,68.0,Híbrido,No
+EST-2680,Arquitectura Cloud,Tecnólogo,,25,45.0,Sincrónico,Sí
+EST-2681,Arquitectura Cloud,Profesional,32.5,31,55.0,Asincrónico,Sí
+EST-2682,Python para Datos,Posgrado,15.5,5,82.0,Asincrónico,Sí
+EST-2683,Desarrollo Web,Profesional,15.5,9,75.0,Sincrónico,No
+EST-2684,Desarrollo Web,Profesional,15.5,38,45.0,Híbrido,Sí
+EST-2685,Bases de Datos SQL,Profesional,20.0,59,98.0,Híbrido,Sí
+EST-2686,Inteligencia Artificial,Tecnólogo,32.5,32,82.0,Asincrónico,Sí
+EST-2687,Desarrollo Web,Posgrado,32.5,51,45.0,Híbrido,Sí
+EST-2688,Inteligencia Artificial,Profesional,20.0,9,90.0,Híbrido,Sí
+EST-2689,Arquitectura Cloud,Posgrado,,37,75.0,Sincrónico,Sí
+EST-2690,Inteligencia Artificial,Profesional,40.0,15,45.0,Asincrónico,Sí
+EST-2691,Bases de Datos SQL,Profesional,32.5,54,,Sincrónico,Sí
+EST-2692,Inteligencia Artificial,Posgrado,15.5,48,68.0,Sincrónico,Sí
+EST-2693,Desarrollo Web,Profesional,,19,45.0,Híbrido,No
+EST-2694,Desarrollo Web,Profesional,10.0,11,75.0,Híbrido,Sí
+EST-2695,Arquitectura Cloud,Profesional,15.5,9,82.0,Asincrónico,Sí
+EST-2696,Arquitectura Cloud,Posgrado,25.0,12,82.0,Asincrónico,No
+EST-2697,Arquitectura Cloud,Profesional,,14,90.0,Híbrido,Sí
+EST-2698,Python para Datos,Profesional,40.0,29,,Sincrónico,No
+EST-2699,Python para Datos,Tecnólogo,50.0,31,75.0,Asincrónico,No
+EST-2700,Bases de Datos SQL,Posgrado,20.0,41,75.0,Híbrido,Sí
+EST-2701,Inteligencia Artificial,Tecnólogo,25.0,18,75.0,Híbrido,Sí
+EST-2702,Python para Datos,Tecnólogo,32.5,35,82.0,Híbrido,Sí
+EST-2703,Python para Datos,Tecnólogo,25.0,28,82.0,Asincrónico,Sí
+EST-2704,Desarrollo Web,Tecnólogo,32.5,53,75.0,Híbrido,Sí
+EST-2705,Python para Datos,Posgrado,20.0,49,55.0,Híbrido,Sí
+EST-2706,Python para Datos,Tecnólogo,50.0,23,98.0,Asincrónico,Sí
+EST-2707,Bases de Datos SQL,Técnico,,37,82.0,Asincrónico,No
+EST-2708,Desarrollo Web,Técnico,10.0,19,98.0,Sincrónico,No
+EST-2709,Bases de Datos SQL,Técnico,20.0,53,75.0,Híbrido,Sí
+EST-2710,Desarrollo Web,Tecnólogo,20.0,57,,Sincrónico,Sí
+EST-2711,Python para Datos,Posgrado,50.0,34,90.0,Asincrónico,No
+EST-2712,Inteligencia Artificial,Profesional,32.5,32,82.0,Sincrónico,Sí
+EST-2713,Python para Datos,Profesional,15.5,37,,Asincrónico,Sí
+EST-2714,Desarrollo Web,Posgrado,25.0,48,98.0,Híbrido,Sí
+EST-2715,Arquitectura Cloud,Tecnólogo,32.5,42,75.0,Híbrido,No
+EST-2716,Desarrollo Web,Profesional,25.0,49,68.0,Híbrido,No
+EST-2717,Arquitectura Cloud,Tecnólogo,20.0,33,,Híbrido,Sí
+EST-2718,Desarrollo Web,Posgrado,15.5,25,82.0,Sincrónico,Sí
+EST-2719,Python para Datos,Posgrado,15.5,30,45.0,Híbrido,Sí
+EST-2720,Inteligencia Artificial,Tecnólogo,25.0,24,,Híbrido,Sí
+EST-2721,Python para Datos,Profesional,10.0,29,55.0,Sincrónico,Sí
+EST-2722,Inteligencia Artificial,Técnico,10.0,8,82.0,Híbrido,Sí
+EST-2723,Inteligencia Artificial,Técnico,25.0,29,82.0,Asincrónico,Sí
+EST-2724,Arquitectura Cloud,Tecnólogo,40.0,51,82.0,Asincrónico,Sí
+EST-2725,Python para Datos,Posgrado,25.0,49,98.0,Sincrónico,No
+EST-2726,Inteligencia Artificial,Profesional,25.0,11,82.0,Híbrido,Sí
+EST-2727,Python para Datos,Técnico,32.5,5,82.0,Asincrónico,Sí
+EST-2728,Bases de Datos SQL,Posgrado,20.0,41,82.0,Híbrido,Sí
+EST-2729,Inteligencia Artificial,Técnico,10.0,35,,Asincrónico,Sí
+EST-2730,Arquitectura Cloud,Posgrado,25.0,14,,Asincrónico,No
+EST-2731,Inteligencia Artificial,Tecnólogo,25.0,55,,Asincrónico,Sí
+EST-2732,Desarrollo Web,Profesional,32.5,51,90.0,Híbrido,No
+EST-2733,Bases de Datos SQL,Tecnólogo,20.0,29,45.0,Asincrónico,Sí
+EST-2734,Bases de Datos SQL,Técnico,15.5,52,82.0,Híbrido,No
+EST-2735,Bases de Datos SQL,Profesional,40.0,12,68.0,Sincrónico,No
+EST-2736,Bases de Datos SQL,Tecnólogo,15.5,28,82.0,Asincrónico,No
+EST-2737,Desarrollo Web,Tecnólogo,25.0,60,,Asincrónico,No
+EST-2738,Desarrollo Web,Posgrado,20.0,21,55.0,Asincrónico,Sí
+EST-2739,Inteligencia Artificial,Posgrado,25.0,17,82.0,Híbrido,Sí
+EST-2740,Python para Datos,Posgrado,15.5,10,,Sincrónico,No
+EST-2741,Bases de Datos SQL,Posgrado,50.0,30,82.0,Híbrido,No
+EST-2742,Arquitectura Cloud,Técnico,10.0,56,75.0,Asincrónico,Sí
+EST-2743,Inteligencia Artificial,Técnico,50.0,36,98.0,Híbrido,Sí
+EST-2744,Desarrollo Web,Tecnólogo,25.0,14,75.0,Sincrónico,Sí
+EST-2745,Inteligencia Artificial,Posgrado,,19,45.0,Asincrónico,No
+EST-2746,Bases de Datos SQL,Tecnólogo,15.5,54,,Híbrido,Sí
+EST-2747,Desarrollo Web,Tecnólogo,50.0,32,82.0,Asincrónico,Sí
+EST-2748,Arquitectura Cloud,Posgrado,25.0,14,75.0,Híbrido,Sí
+EST-2749,Desarrollo Web,Profesional,40.0,28,68.0,Híbrido,Sí
+EST-2750,Bases de Datos SQL,Técnico,40.0,27,82.0,Asincrónico,Sí
+EST-2751,Bases de Datos SQL,Posgrado,50.0,52,68.0,Sincrónico,Sí
+EST-2752,Arquitectura Cloud,Tecnólogo,15.5,40,75.0,Híbrido,Sí
+EST-2753,Python para Datos,Tecnólogo,10.0,60,55.0,Híbrido,Sí
+EST-2754,Desarrollo Web,Técnico,15.5,53,45.0,Asincrónico,Sí
+EST-2755,Arquitectura Cloud,Técnico,15.5,25,45.0,Híbrido,No
+EST-2756,Arquitectura Cloud,Técnico,20.0,16,90.0,Sincrónico,No
+EST-2757,Python para Datos,Técnico,32.5,53,82.0,Sincrónico,No
+EST-2758,Python para Datos,Tecnólogo,10.0,56,75.0,Híbrido,Sí
+EST-2759,Desarrollo Web,Tecnólogo,25.0,15,75.0,Sincrónico,Sí
+EST-2760,Bases de Datos SQL,Profesional,10.0,20,75.0,Asincrónico,Sí
+EST-2761,Bases de Datos SQL,Posgrado,40.0,13,75.0,Asincrónico,Sí
+EST-2762,Python para Datos,Posgrado,10.0,56,68.0,Asincrónico,Sí
+EST-2763,Desarrollo Web,Tecnólogo,20.0,48,68.0,Asincrónico,No
+EST-2764,Inteligencia Artificial,Posgrado,20.0,34,82.0,Asincrónico,No
+EST-2765,Python para Datos,Posgrado,40.0,57,75.0,Sincrónico,No
+EST-2766,Arquitectura Cloud,Tecnólogo,40.0,37,,Híbrido,Sí
+EST-2767,Arquitectura Cloud,Tecnólogo,15.5,9,90.0,Sincrónico,Sí
+EST-2768,Arquitectura Cloud,Posgrado,50.0,8,,Sincrónico,Sí
+EST-2769,Desarrollo Web,Profesional,15.5,30,82.0,Sincrónico,Sí
+EST-2770,Desarrollo Web,Técnico,15.5,10,68.0,Asincrónico,Sí
+EST-2771,Bases de Datos SQL,Técnico,32.5,38,75.0,Asincrónico,Sí
+EST-2772,Python para Datos,Tecnólogo,10.0,55,,Sincrónico,No
+EST-2773,Inteligencia Artificial,Profesional,25.0,26,82.0,Sincrónico,Sí
+EST-2774,Bases de Datos SQL,Posgrado,15.5,55,68.0,Híbrido,Sí
+EST-2775,Inteligencia Artificial,Profesional,10.0,53,75.0,Sincrónico,No
+EST-2776,Inteligencia Artificial,Posgrado,15.5,55,75.0,Asincrónico,Sí
+EST-2777,Python para Datos,Tecnólogo,15.5,13,55.0,Híbrido,Sí
+EST-2778,Python para Datos,Posgrado,25.0,39,55.0,Asincrónico,Sí
+EST-2779,Bases de Datos SQL,Técnico,20.0,30,68.0,Híbrido,No
+EST-2780,Inteligencia Artificial,Posgrado,20.0,30,55.0,Asincrónico,Sí
+EST-2781,Bases de Datos SQL,Posgrado,25.0,31,98.0,Híbrido,No
+EST-2782,Python para Datos,Tecnólogo,10.0,33,45.0,Híbrido,No
+EST-2783,Bases de Datos SQL,Posgrado,25.0,54,45.0,Sincrónico,Sí
+EST-2784,Bases de Datos SQL,Tecnólogo,20.0,42,75.0,Sincrónico,No
+EST-2785,Bases de Datos SQL,Posgrado,15.5,40,75.0,Híbrido,Sí
+EST-2786,Desarrollo Web,Posgrado,32.5,19,98.0,Híbrido,Sí
+EST-2787,Bases de Datos SQL,Posgrado,10.0,14,82.0,Sincrónico,No
+EST-2788,Bases de Datos SQL,Tecnólogo,25.0,50,82.0,Sincrónico,Sí
+EST-2789,Arquitectura Cloud,Técnico,15.5,16,68.0,Asincrónico,No
+EST-2790,Desarrollo Web,Profesional,20.0,23,75.0,Sincrónico,Sí
+EST-2791,Bases de Datos SQL,Posgrado,20.0,8,55.0,Sincrónico,No
+EST-2792,Inteligencia Artificial,Posgrado,15.5,38,90.0,Sincrónico,No
+EST-2793,Bases de Datos SQL,Profesional,15.5,18,,Asincrónico,Sí
+EST-2794,Desarrollo Web,Técnico,32.5,45,90.0,Híbrido,No
+EST-2795,Bases de Datos SQL,Profesional,10.0,11,75.0,Híbrido,No
+EST-2796,Arquitectura Cloud,Posgrado,25.0,46,98.0,Asincrónico,Sí
+EST-2797,Python para Datos,Posgrado,20.0,13,68.0,Híbrido,No
+EST-2798,Inteligencia Artificial,Técnico,25.0,28,82.0,Híbrido,Sí
+EST-2799,Python para Datos,Tecnólogo,15.5,46,90.0,Híbrido,Sí
+EST-2800,Inteligencia Artificial,Posgrado,50.0,32,90.0,Asincrónico,Sí
+EST-2801,Bases de Datos SQL,Tecnólogo,10.0,28,,Asincrónico,No
+EST-2802,Inteligencia Artificial,Profesional,40.0,33,75.0,Híbrido,Sí
+EST-2803,Inteligencia Artificial,Técnico,10.0,13,75.0,Híbrido,Sí
+EST-2804,Desarrollo Web,Tecnólogo,15.5,34,68.0,Sincrónico,Sí
+EST-2805,Bases de Datos SQL,Técnico,40.0,55,90.0,Sincrónico,No
+EST-2806,Python para Datos,Profesional,10.0,51,68.0,Asincrónico,No
+EST-2807,Desarrollo Web,Técnico,,47,75.0,Híbrido,Sí
+EST-2808,Desarrollo Web,Posgrado,10.0,7,75.0,Asincrónico,No
+EST-2809,Bases de Datos SQL,Técnico,10.0,30,82.0,Asincrónico,No
+EST-2810,Python para Datos,Técnico,10.0,59,75.0,Híbrido,No
+EST-2811,Inteligencia Artificial,Posgrado,15.5,12,75.0,Sincrónico,Sí
+EST-2812,Desarrollo Web,Profesional,25.0,34,55.0,Asincrónico,No
+EST-2813,Desarrollo Web,Profesional,15.5,41,98.0,Asincrónico,Sí
+EST-2814,Python para Datos,Profesional,15.5,41,45.0,Sincrónico,Sí
+EST-2815,Bases de Datos SQL,Profesional,20.0,56,82.0,Asincrónico,Sí
+EST-2816,Bases de Datos SQL,Técnico,50.0,9,68.0,Sincrónico,Sí
+EST-2817,Python para Datos,Posgrado,50.0,31,68.0,Sincrónico,Sí
+EST-2818,Arquitectura Cloud,Tecnólogo,15.5,23,75.0,Asincrónico,No
+EST-2819,Desarrollo Web,Posgrado,25.0,11,68.0,Sincrónico,No
+EST-2820,Arquitectura Cloud,Tecnólogo,15.5,7,90.0,Asincrónico,No
+EST-2821,Python para Datos,Técnico,32.5,47,82.0,Asincrónico,Sí
+EST-2822,Inteligencia Artificial,Profesional,10.0,10,55.0,Asincrónico,Sí
+EST-2823,Desarrollo Web,Posgrado,25.0,16,55.0,Híbrido,No
+EST-2824,Bases de Datos SQL,Técnico,10.0,8,55.0,Sincrónico,Sí
+EST-2825,Python para Datos,Posgrado,15.5,42,90.0,Sincrónico,Sí
+EST-2826,Desarrollo Web,Profesional,15.5,17,82.0,Sincrónico,Sí
+EST-2827,Python para Datos,Técnico,20.0,6,98.0,Asincrónico,No
+EST-2828,Bases de Datos SQL,Posgrado,20.0,52,82.0,Sincrónico,No
+EST-2829,Desarrollo Web,Técnico,,36,82.0,Híbrido,No
+EST-2830,Python para Datos,Profesional,15.5,42,68.0,Híbrido,Sí
+EST-2831,Bases de Datos SQL,Tecnólogo,10.0,30,45.0,Asincrónico,Sí
+EST-2832,Python para Datos,Técnico,25.0,24,75.0,Híbrido,Sí
+EST-2833,Bases de Datos SQL,Técnico,10.0,60,75.0,Sincrónico,Sí
+EST-2834,Inteligencia Artificial,Técnico,10.0,30,75.0,Híbrido,Sí
+EST-2835,Python para Datos,Tecnólogo,10.0,17,98.0,Asincrónico,Sí
+EST-2836,Bases de Datos SQL,Posgrado,,16,68.0,Asincrónico,Sí
+EST-2837,Bases de Datos SQL,Tecnólogo,15.5,35,90.0,Híbrido,No
+EST-2838,Arquitectura Cloud,Tecnólogo,25.0,14,68.0,Híbrido,Sí
+EST-2839,Inteligencia Artificial,Posgrado,25.0,36,90.0,Asincrónico,Sí
+EST-2840,Bases de Datos SQL,Profesional,25.0,26,,Sincrónico,Sí
+EST-2841,Inteligencia Artificial,Profesional,32.5,36,,Híbrido,Sí
+EST-2842,Inteligencia Artificial,Profesional,15.5,23,68.0,Híbrido,No
+EST-2843,Inteligencia Artificial,Tecnólogo,40.0,52,45.0,Sincrónico,No
+EST-2844,Desarrollo Web,Técnico,50.0,30,82.0,Asincrónico,Sí
+EST-2845,Desarrollo Web,Técnico,25.0,40,90.0,Híbrido,No
+EST-2846,Python para Datos,Técnico,20.0,21,,Sincrónico,No
+EST-2847,Bases de Datos SQL,Posgrado,20.0,22,75.0,Híbrido,No
+EST-2848,Inteligencia Artificial,Tecnólogo,25.0,28,75.0,Asincrónico,Sí
+EST-2849,Bases de Datos SQL,Técnico,50.0,44,82.0,Asincrónico,Sí
+EST-2850,Bases de Datos SQL,Posgrado,15.5,21,82.0,Asincrónico,Sí
+EST-2851,Arquitectura Cloud,Posgrado,10.0,44,98.0,Sincrónico,No
+EST-2852,Bases de Datos SQL,Técnico,32.5,10,68.0,Híbrido,Sí
+EST-2853,Bases de Datos SQL,Tecnólogo,25.0,13,,Híbrido,Sí
+EST-2854,Python para Datos,Posgrado,40.0,35,75.0,Sincrónico,Sí
+EST-2855,Bases de Datos SQL,Profesional,32.5,44,90.0,Híbrido,Sí
+EST-2856,Python para Datos,Profesional,25.0,55,68.0,Híbrido,No
+EST-2857,Arquitectura Cloud,Tecnólogo,15.5,57,68.0,Asincrónico,Sí
+EST-2858,Desarrollo Web,Posgrado,15.5,60,82.0,Híbrido,Sí
+EST-2859,Bases de Datos SQL,Profesional,15.5,52,82.0,Asincrónico,No
+EST-2860,Inteligencia Artificial,Técnico,40.0,5,75.0,Sincrónico,No
+EST-2861,Bases de Datos SQL,Tecnólogo,20.0,16,90.0,Híbrido,Sí
+EST-2862,Desarrollo Web,Tecnólogo,15.5,12,82.0,Híbrido,No
+EST-2863,Bases de Datos SQL,Tecnólogo,25.0,36,68.0,Asincrónico,No
+EST-2864,Bases de Datos SQL,Posgrado,15.5,9,82.0,Sincrónico,Sí
+EST-2865,Python para Datos,Profesional,15.5,43,90.0,Híbrido,Sí
+EST-2866,Arquitectura Cloud,Posgrado,,35,55.0,Sincrónico,Sí
+EST-2867,Desarrollo Web,Técnico,32.5,48,90.0,Sincrónico,No
+EST-2868,Arquitectura Cloud,Tecnólogo,32.5,22,90.0,Híbrido,Sí
+EST-2869,Inteligencia Artificial,Profesional,20.0,13,82.0,Sincrónico,Sí
+EST-2870,Inteligencia Artificial,Profesional,50.0,36,82.0,Asincrónico,Sí
+EST-2871,Arquitectura Cloud,Profesional,10.0,41,98.0,Híbrido,Sí
+EST-2872,Python para Datos,Técnico,20.0,8,68.0,Asincrónico,No
+EST-2873,Python para Datos,Posgrado,15.5,58,82.0,Asincrónico,Sí
+EST-2874,Arquitectura Cloud,Profesional,20.0,36,68.0,Sincrónico,Sí
+EST-2875,Bases de Datos SQL,Tecnólogo,50.0,43,68.0,Híbrido,Sí
+EST-2876,Bases de Datos SQL,Posgrado,25.0,59,98.0,Híbrido,No
+EST-2877,Arquitectura Cloud,Técnico,20.0,57,75.0,Sincrónico,Sí
+EST-2878,Inteligencia Artificial,Profesional,15.5,18,82.0,Híbrido,No
+EST-2879,Python para Datos,Posgrado,25.0,34,82.0,Híbrido,Sí
+EST-2880,Bases de Datos SQL,Profesional,40.0,42,,Sincrónico,No
+EST-2881,Arquitectura Cloud,Tecnólogo,,22,75.0,Asincrónico,Sí
+EST-2882,Python para Datos,Técnico,,5,68.0,Híbrido,Sí
+EST-2883,Python para Datos,Tecnólogo,20.0,10,82.0,Híbrido,No
+EST-2884,Bases de Datos SQL,Técnico,50.0,24,82.0,Asincrónico,Sí
+EST-2885,Desarrollo Web,Técnico,10.0,53,,Sincrónico,No
+EST-2886,Bases de Datos SQL,Posgrado,10.0,22,55.0,Asincrónico,Sí
+EST-2887,Desarrollo Web,Técnico,20.0,54,90.0,Asincrónico,No
+EST-2888,Inteligencia Artificial,Posgrado,20.0,33,55.0,Asincrónico,No
+EST-2889,Bases de Datos SQL,Técnico,15.5,57,75.0,Sincrónico,No
+EST-2890,Python para Datos,Tecnólogo,20.0,16,75.0,Asincrónico,Sí
+EST-2891,Desarrollo Web,Tecnólogo,20.0,22,55.0,Asincrónico,Sí
+EST-2892,Inteligencia Artificial,Posgrado,32.5,53,75.0,Sincrónico,No
+EST-2893,Desarrollo Web,Tecnólogo,25.0,46,75.0,Asincrónico,Sí
+EST-2894,Python para Datos,Técnico,10.0,6,82.0,Asincrónico,Sí
+EST-2895,Inteligencia Artificial,Tecnólogo,15.5,59,82.0,Sincrónico,Sí
+EST-2896,Bases de Datos SQL,Posgrado,25.0,19,68.0,Sincrónico,Sí
+EST-2897,Bases de Datos SQL,Tecnólogo,10.0,34,98.0,Sincrónico,Sí
+EST-2898,Bases de Datos SQL,Técnico,,57,68.0,Sincrónico,Sí
+EST-2899,Desarrollo Web,Profesional,20.0,38,75.0,Asincrónico,Sí
+EST-2900,Bases de Datos SQL,Posgrado,20.0,53,45.0,Sincrónico,Sí
+EST-2901,Arquitectura Cloud,Tecnólogo,10.0,47,68.0,Asincrónico,No
+EST-2902,Bases de Datos SQL,Tecnólogo,20.0,28,90.0,Sincrónico,No
+EST-2903,Desarrollo Web,Profesional,32.5,21,68.0,Sincrónico,Sí
+EST-2904,Desarrollo Web,Profesional,10.0,9,98.0,Asincrónico,Sí
+EST-2905,Inteligencia Artificial,Tecnólogo,15.5,9,75.0,Híbrido,Sí
+EST-2906,Inteligencia Artificial,Tecnólogo,32.5,13,55.0,Asincrónico,No
+EST-2907,Bases de Datos SQL,Tecnólogo,15.5,7,75.0,Sincrónico,Sí
+EST-2908,Inteligencia Artificial,Técnico,25.0,45,82.0,Híbrido,No
+EST-2909,Desarrollo Web,Posgrado,32.5,8,82.0,Sincrónico,No
+EST-2910,Inteligencia Artificial,Posgrado,15.5,25,82.0,Sincrónico,Sí
+EST-2911,Desarrollo Web,Técnico,40.0,25,75.0,Asincrónico,Sí
+EST-2912,Desarrollo Web,Tecnólogo,10.0,32,55.0,Asincrónico,No
+EST-2913,Inteligencia Artificial,Tecnólogo,15.5,31,82.0,Híbrido,Sí
+EST-2914,Python para Datos,Tecnólogo,20.0,51,55.0,Híbrido,Sí
+EST-2915,Desarrollo Web,Técnico,25.0,9,90.0,Híbrido,No
+EST-2916,Arquitectura Cloud,Técnico,15.5,35,82.0,Sincrónico,Sí
+EST-2917,Python para Datos,Posgrado,10.0,42,90.0,Híbrido,Sí
+EST-2918,Arquitectura Cloud,Profesional,20.0,55,55.0,Híbrido,Sí
+EST-2919,Inteligencia Artificial,Posgrado,20.0,29,82.0,Híbrido,Sí
+EST-2920,Desarrollo Web,Tecnólogo,15.5,53,82.0,Asincrónico,Sí
+EST-2921,Python para Datos,Posgrado,10.0,8,82.0,Sincrónico,No
+EST-2922,Inteligencia Artificial,Tecnólogo,15.5,20,,Híbrido,Sí
+EST-2923,Inteligencia Artificial,Posgrado,15.5,45,90.0,Híbrido,Sí
+EST-2924,Arquitectura Cloud,Técnico,25.0,57,68.0,Sincrónico,Sí
+EST-2925,Python para Datos,Profesional,25.0,33,68.0,Sincrónico,Sí
+EST-2926,Desarrollo Web,Técnico,,28,68.0,Sincrónico,Sí
+EST-2927,Desarrollo Web,Profesional,25.0,42,82.0,Híbrido,No
+EST-2928,Bases de Datos SQL,Posgrado,15.5,44,82.0,Asincrónico,Sí
+EST-2929,Bases de Datos SQL,Posgrado,50.0,12,82.0,Híbrido,Sí
+EST-2930,Python para Datos,Técnico,10.0,7,75.0,Asincrónico,No
+EST-2931,Inteligencia Artificial,Técnico,,52,90.0,Sincrónico,Sí
+EST-2932,Inteligencia Artificial,Técnico,15.5,47,82.0,Asincrónico,Sí
+EST-2933,Inteligencia Artificial,Posgrado,20.0,35,,Asincrónico,Sí
+EST-2934,Python para Datos,Posgrado,20.0,9,68.0,Híbrido,Sí
+EST-2935,Desarrollo Web,Tecnólogo,10.0,26,68.0,Asincrónico,Sí
+EST-2936,Bases de Datos SQL,Técnico,15.5,12,68.0,Sincrónico,Sí
+EST-2937,Desarrollo Web,Profesional,20.0,11,68.0,Sincrónico,Sí
+EST-2938,Desarrollo Web,Tecnólogo,20.0,60,55.0,Sincrónico,Sí
+EST-2939,Desarrollo Web,Técnico,20.0,34,90.0,Híbrido,Sí
+EST-2940,Bases de Datos SQL,Posgrado,20.0,18,90.0,Asincrónico,No
+EST-2941,Python para Datos,Profesional,32.5,27,68.0,Sincrónico,Sí
+EST-2942,Desarrollo Web,Posgrado,15.5,54,75.0,Asincrónico,Sí
+EST-2943,Arquitectura Cloud,Profesional,10.0,49,75.0,Híbrido,Sí
+EST-2944,Arquitectura Cloud,Tecnólogo,20.0,11,90.0,Asincrónico,No
+EST-2945,Bases de Datos SQL,Tecnólogo,20.0,20,75.0,Sincrónico,No
+EST-2946,Desarrollo Web,Técnico,15.5,37,82.0,Asincrónico,Sí
+EST-2947,Arquitectura Cloud,Técnico,10.0,23,75.0,Híbrido,Sí
+EST-2948,Python para Datos,Tecnólogo,20.0,40,,Híbrido,Sí
+EST-2949,Python para Datos,Posgrado,15.5,40,68.0,Sincrónico,Sí
+EST-2950,Desarrollo Web,Posgrado,20.0,14,,Sincrónico,No
+EST-2951,Arquitectura Cloud,Técnico,15.5,25,68.0,Asincrónico,No
+EST-2952,Python para Datos,Tecnólogo,32.5,18,90.0,Asincrónico,Sí
+EST-2953,Arquitectura Cloud,Profesional,10.0,58,55.0,Híbrido,Sí
+EST-2954,Arquitectura Cloud,Profesional,25.0,7,90.0,Sincrónico,No
+EST-2955,Inteligencia Artificial,Posgrado,,56,82.0,Híbrido,Sí
+EST-2956,Inteligencia Artificial,Técnico,25.0,18,90.0,Híbrido,No
+EST-2957,Desarrollo Web,Técnico,25.0,48,75.0,Híbrido,Sí
+EST-2958,Desarrollo Web,Tecnólogo,15.5,5,68.0,Híbrido,No
+EST-2959,Arquitectura Cloud,Profesional,32.5,43,82.0,Híbrido,No
+EST-2960,Inteligencia Artificial,Profesional,10.0,6,68.0,Híbrido,Sí
+EST-2961,Arquitectura Cloud,Profesional,50.0,54,,Híbrido,No
+EST-2962,Bases de Datos SQL,Técnico,25.0,26,68.0,Híbrido,Sí
+EST-2963,Inteligencia Artificial,Profesional,40.0,5,90.0,Híbrido,Sí
+EST-2964,Desarrollo Web,Tecnólogo,25.0,33,82.0,Asincrónico,Sí
+EST-2965,Inteligencia Artificial,Profesional,10.0,31,75.0,Sincrónico,No
+EST-2966,Arquitectura Cloud,Técnico,20.0,6,55.0,Asincrónico,Sí
+EST-2967,Python para Datos,Técnico,25.0,46,55.0,Híbrido,No
+EST-2968,Python para Datos,Técnico,20.0,11,68.0,Sincrónico,Sí
+EST-2969,Bases de Datos SQL,Técnico,10.0,52,90.0,Sincrónico,Sí
+EST-2970,Arquitectura Cloud,Tecnólogo,32.5,38,82.0,Asincrónico,Sí
+EST-2971,Arquitectura Cloud,Técnico,15.5,11,90.0,Sincrónico,Sí
+EST-2972,Python para Datos,Tecnólogo,15.5,36,82.0,Híbrido,Sí
+EST-2973,Bases de Datos SQL,Profesional,10.0,19,45.0,Asincrónico,Sí
+EST-2974,Python para Datos,Profesional,50.0,16,82.0,Sincrónico,No
+EST-2975,Arquitectura Cloud,Posgrado,25.0,29,45.0,Asincrónico,Sí
+EST-2976,Inteligencia Artificial,Técnico,10.0,32,82.0,Asincrónico,Sí
+EST-2977,Arquitectura Cloud,Posgrado,25.0,55,68.0,Híbrido,Sí
+EST-2978,Inteligencia Artificial,Técnico,10.0,59,82.0,Híbrido,No
+EST-2979,Desarrollo Web,Posgrado,25.0,45,,Sincrónico,No
+EST-2980,Python para Datos,Tecnólogo,20.0,15,,Asincrónico,Sí
+EST-2981,Python para Datos,Posgrado,,59,68.0,Híbrido,Sí
+EST-2982,Python para Datos,Posgrado,10.0,14,90.0,Asincrónico,Sí
+EST-2983,Desarrollo Web,Técnico,,41,82.0,Híbrido,Sí
+EST-2984,Bases de Datos SQL,Técnico,10.0,54,75.0,Híbrido,No
+EST-2985,Bases de Datos SQL,Técnico,40.0,60,75.0,Sincrónico,No
+EST-2986,Bases de Datos SQL,Posgrado,15.5,22,75.0,Sincrónico,Sí
+EST-2987,Desarrollo Web,Técnico,10.0,18,98.0,Sincrónico,Sí
+EST-2988,Python para Datos,Posgrado,32.5,16,,Asincrónico,Sí
+EST-2989,Desarrollo Web,Tecnólogo,15.5,46,55.0,Asincrónico,Sí
+EST-2990,Bases de Datos SQL,Posgrado,15.5,32,45.0,Sincrónico,Sí
+EST-2991,Bases de Datos SQL,Posgrado,50.0,28,82.0,Asincrónico,Sí
+EST-2992,Desarrollo Web,Técnico,15.5,20,68.0,Asincrónico,Sí
+EST-2993,Inteligencia Artificial,Profesional,15.5,46,82.0,Asincrónico,No
+EST-2994,Python para Datos,Profesional,15.5,60,68.0,Sincrónico,Sí
+EST-2995,Desarrollo Web,Profesional,10.0,19,75.0,Híbrido,No
+EST-2996,Desarrollo Web,Profesional,10.0,56,98.0,Asincrónico,Sí
+EST-2997,Desarrollo Web,Posgrado,25.0,60,45.0,Híbrido,Sí
+EST-2998,Desarrollo Web,Posgrado,,25,90.0,Asincrónico,Sí
+EST-2999,Bases de Datos SQL,Posgrado,15.5,25,82.0,Sincrónico,No
+EST-3000,Python para Datos,Profesional,20.0,27,,Asincrónico,Sí
+EST-2026,Inteligencia Artificial,Técnico,32.5,19,82.0,Híbrido,Sí
+EST-2027,Arquitectura Cloud,Tecnólogo,10.0,8,68.0,Asincrónico,No
+EST-2028,Python para Datos,Profesional,25.0,5,68.0,Asincrónico,Sí
+EST-2029,Desarrollo Web,Tecnólogo,20.0,43,68.0,Asincrónico,Sí
+EST-2030,Desarrollo Web,Tecnólogo,50.0,7,75.0,Asincrónico,No
+EST-2031,Python para Datos,Tecnólogo,25.0,26,82.0,Híbrido,Sí
+EST-2032,Inteligencia Artificial,Posgrado,40.0,34,,Sincrónico,No
+EST-2033,Arquitectura Cloud,Técnico,20.0,15,75.0,Sincrónico,Sí
+EST-2034,Arquitectura Cloud,Técnico,15.5,13,82.0,Sincrónico,No
+EST-2035,Inteligencia Artificial,Posgrado,10.0,56,82.0,Asincrónico,Sí
